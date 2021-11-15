@@ -1,0 +1,9 @@
+; SynthEdit Skin Definition File
+;
+; Skin Set:	ProphetBlack
+; Skin Item:	Button
+; Files:	button.png
+
+type animated
+mouse_response click
+frame_size 18,30

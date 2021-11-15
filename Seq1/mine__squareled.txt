@@ -1,0 +1,9 @@
+; SynthEdit Skin Definition File
+;
+; Skin Set:	ProphetBlack
+; Skin Item:	LED Indicator
+; Files:	squareled.png
+
+type knob
+frame_size 18,18
+
