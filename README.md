@@ -11,6 +11,8 @@ If you find this vst useful, please consider donating. It does represent quite a
 # Instructions
 Click the purple squares on the right to load samples into each slot. The sequencer playback is controlled by your DAW. The purple rectangle on the left controls the time division. Rates around 1/16 are recommended. After 1/32 or so the sequencer may not function properly.
 
+This does not have an presets options at the moment, therefore it might be best to load a kit and save a preset using your DAW before you create a pattern to always have a starting point to go back to.
+
 rs1 - resets the first sequencer
 rs2 - the second
 
