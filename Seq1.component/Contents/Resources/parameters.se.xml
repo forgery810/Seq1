@@ -1,0 +1,1396 @@
+<?xml version="1.0" ?>
+<Controller>
+  <PatchManager>
+    <Parameters>
+      <Parameter Handle="2146618722" Module="605968274" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2146451594" Module="1047178657" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2143665161" Module="1703265408" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2129177110" Module="115694363" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2129018820" Module="907510185" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2127633311" Module="1020089613" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2122107818" Module="595320816" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2121634316" Module="1431622562" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2114268294" Module="671506596" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2108359167" Module="520271475" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2107194236" Module="1232946509" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2107061979" Module="1647793071" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2103203529" Module="961652209" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2102040351" Module="88048832" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2099360980" Module="2120974423" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2096545707" Module="1487062376" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2094972885" Module="284771546" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2094340345" Module="1595568855" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2094280972" Module="236954584" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2092877451" Module="771626087" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2089514636" Module="2133177728" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2088713417" Module="1241265179" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2086150505" Module="1710610" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2085062961" Module="1213652897" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2084015435" Module="1371232323" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2081017184" Module="2063471032" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2080437500" Module="397924702" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2079575539" Module="1792148155" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2077865944" Module="1321022268" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2075609004" Module="1997152070" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2075392499" Module="1214548453" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2074554072" Module="855100776" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2066544817" Module="811396589" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2064939968" Module="391910728" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2062425853" Module="1848040531" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2058121753" Module="1565803431" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2057579381" Module="2039417673" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2055715062" Module="1487486279" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2047750728" Module="1552094806" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2047647062" Module="1276788533" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2045083249" Module="1410906875" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2042869578" Module="557915739" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2038633977" Module="647306678" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2037533035" Module="687335430" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2036956820" Module="327701569" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2032718727" Module="1155227946" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2031999345" Module="940782724" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2029430095" Module="294806132" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2029074462" Module="959745340" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2022513040" Module="140225039" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2013963292" Module="1680691877" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2012241496" Module="2003242669" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2012003822" Module="1797574412" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2008500607" Module="1835654413" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="4" />
+      <Parameter Handle="2008337099" Module="659471485" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2006477880" Module="1371487533" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2004354697" Module="1111270170" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="2000975698" Module="206148983" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1998053034" Module="1112875585" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1997194481" Module="9768175" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1993005865" Module="537085601" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1991907188" Module="1435864389" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1990305127" Module="648424984" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1988149291" Module="741239142" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1982124052" Module="1772679215" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1978976579" Module="1706245753" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1978091899" Module="1921191915" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1976590309" Module="1060620053" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1976139884" Module="1295291387" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1974897531" Module="1958839744" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1974650063" Module="1662306737" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1973211281" Module="2010307788" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1972877573" Module="1460624850" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1963817945" Module="942713856" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1958106482" Module="733414505" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1956625356" Module="1535194870" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1952557951" Module="31137816" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1951400811" Module="1484388118" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1949770238" Module="1175906598" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="1947038816" Module="855672915" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1946904849" Module="1675939643" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1945019413" Module="53970103" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1944679776" Module="1406021841" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1941980225" Module="125310353" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1941729172" Module="76862786" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1939668475" Module="1618967952" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1938806341" Module="1091974913" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1938666231" Module="1472187375" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1934860525" Module="1003255460" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1934553568" Module="1150976051" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1933890730" Module="1112123293" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1932125446" Module="1178165361" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1931764416" Module="1202083339" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1930558726" Module="351633633" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1927318994" Module="513938717" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1925844262" Module="1901685882" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1924444507" Module="437004615" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1922673916" Module="1015381741" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1918374420" Module="1875012639" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1916523645" Module="1503364449" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1915584383" Module="1338929779" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1911185627" Module="328097853" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1910002265" Module="1245288700" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1906599414" Module="1078701304" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1906049137" Module="42802888" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1905096436" Module="1532445845" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1903343923" Module="2062424171" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1900196390" Module="1014797576" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1899885264" Module="940536077" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1890213933" Module="676492648" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1888992980" Module="535174067" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1879838394" Module="617029008" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1875514001" Module="1563827207" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="4" />
+      <Parameter Handle="1872776387" Module="225110917" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1872497032" Module="492036239" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1868477754" Module="763961494" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1865013089" Module="262696587" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1864784283" Module="1360028719" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1862059516" Module="1123682227" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1846687670" Module="919600057" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1843155467" Module="400612723" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1841414764" Module="574507556" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1836958275" Module="277121867" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1831264430" Module="1983619674" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1821529295" Module="1064353343" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1821494625" Module="1491111857" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1819032707" Module="1286608860" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1815790367" Module="590749214" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1810337930" Module="318249291" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1808931351" Module="158249274" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1808877161" Module="1875708244" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1802329052" Module="578906348" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1794096224" Module="1563646048" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1793662428" Module="852757924" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1788756076" Module="1734377733" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1788411613" Module="1903800733" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1787792268" Module="134635651" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1773934826" Module="631551230" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1771835258" Module="1335279847" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1771088762" Module="1126287284" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1763182500" Module="2051907782" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1758267844" Module="687917237" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1754408561" Module="1291064826" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1746582998" Module="1642141636" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1742628058" Module="1148660058" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="5" />
+      <Parameter Handle="1740845076" Module="1115383156" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="4" />
+      <Parameter Handle="1738911227" Module="1770871927" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1734987293" Module="404432723" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1734330479" Module="505104943" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1730211433" Module="484394490" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1730180811" Module="1280815881" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1726932092" Module="615560533" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1725927039" Module="443889897" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1724136100" Module="1271042667" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1721845370" Module="1134217308" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1721377165" Module="637156957" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1720903349" Module="514956756" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1716769594" Module="1424388979" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1715759222" Module="299932052" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1709651686" Module="1042916277" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1696058413" Module="1592476572" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="1" />
+      <Parameter Handle="1691732863" Module="600080996" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1690468692" Module="586886152" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1688208262" Module="494341256" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1687185137" Module="738201455" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1682338428" Module="474597246" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1679441369" Module="939870622" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1675460726" Module="1045732900" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1667829241" Module="861076621" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1660890689" Module="1489617046" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1658196110" Module="1671551037" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1656374780" Module="1134702358" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1654814143" Module="2097427719" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1651256957" Module="551205161" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1644271285" Module="135672175" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1643766630" Module="1188130051" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1639976167" Module="2124079347" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1639906295" Module="1233326039" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1635246873" Module="1657488278" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1631867447" Module="1713934544" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1626957577" Module="1974871051" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1626268076" Module="839435321" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1624580131" Module="1833981912" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1622110162" Module="912833150" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1616652003" Module="88494774" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1615289666" Module="301152886" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1614337263" Module="2045757341" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1605591795" Module="1032681159" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1600694358" Module="1497475386" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1597431172" Module="920201868" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1591826837" Module="1937798891" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1589423002" Module="1808349104" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1584852089" Module="837211850" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1583738400" Module="769191936" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1576956800" Module="225807522" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1576341238" Module="940600896" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1573582537" Module="2095705605" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1573068158" Module="2012987889" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1569837885" Module="1173533891" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1568922198" Module="1424049957" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1568648048" Module="864641596" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1561815247" Module="1783586541" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1561265371" Module="914409758" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="1559074960" Module="1826614669" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1558717498" Module="2011474124" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1557047009" Module="984591622" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1554888439" Module="841919811" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1554697009" Module="1220562365" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1552061639" Module="1214979266" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1550643528" Module="1878640785" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1546128552" Module="709068504" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1544883883" Module="2125370977" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="1541893571" Module="735009115" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1541074581" Module="2123237566" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1540131984" Module="941764101" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1539549760" Module="838632868" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1538478308" Module="2138016528" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1538284359" Module="323817554" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1538160520" Module="520770251" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1536578793" Module="298218551" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1535922409" Module="846060331" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1532557571" Module="861172184" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1531954779" Module="888141346" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1520754339" Module="1199127052" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1520679142" Module="197005114" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1520331117" Module="1586678419" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1519932124" Module="1625368329" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1518765778" Module="76408480" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1510559596" Module="782899053" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1504754958" Module="1208606315" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1504548172" Module="1235081152" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1499403060" Module="1532615812" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1495817771" Module="1618787216" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1494522723" Module="1204515305" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1489720975" Module="505787348" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1488556187" Module="379093779" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1487522391" Module="1726241860" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1484775279" Module="1254271781" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1483183188" Module="1511606402" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1480763306" Module="1064700878" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1478376635" Module="519133768" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1475562452" Module="633099237" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1468995397" Module="307885702" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1468712782" Module="1588172954" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1466376319" Module="1473313424" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1457759705" Module="820174866" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1453711807" Module="1606368709" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1448728436" Module="535604495" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1448136434" Module="991766083" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1445985071" Module="349416855" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1445334990" Module="1163212234" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1443302040" Module="803132203" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1441110598" Module="358402509" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1440838395" Module="521015537" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1440357704" Module="134743709" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1435449627" Module="2101088264" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1434778846" Module="2056775259" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1428430840" Module="1435477439" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1424781047" Module="303580505" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1424485960" Module="1725316330" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1423869051" Module="313377270" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1421974610" Module="662515824" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1418904432" Module="972914258" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1417655306" Module="918341557" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1416575638" Module="1819927562" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1413691109" Module="40319643" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1412708128" Module="1478800233" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1412704864" Module="703919177" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1410493055" Module="1002386512" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1408191968" Module="815786558" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1403465136" Module="710295246" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1398949099" Module="1848873553" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1395368780" Module="499672203" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1391085574" Module="977766718" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1384853232" Module="1462745101" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1383268477" Module="404187121" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1382848122" Module="1792527137" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1382551507" Module="609762666" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1381949925" Module="1658618372" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1379398056" Module="1210014557" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1368838586" Module="1170020346" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1368378459" Module="1957486489" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1368161828" Module="933627383" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1367784524" Module="74015233" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1365330322" Module="1297830567" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1362743351" Module="1781646486" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1357061511" Module="1147415132" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1356443120" Module="1550746704" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1351600928" Module="1874407842" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1347562445" Module="928570141" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1347436203" Module="142392460" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1344501890" Module="1544575087" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1332144924" Module="1357230067" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1330788903" Module="1961479428" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1325930320" Module="1257256973" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1314607730" Module="127936867" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1308677735" Module="296815742" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1304020648" Module="515788141" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1303808454" Module="600747706" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1303120706" Module="1957353163" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1301586183" Module="1943893554" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1296520778" Module="655330425" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1291945903" Module="538758157" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1285000443" Module="1449203923" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1284683418" Module="463071152" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1282502790" Module="389374903" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1280271459" Module="1436763893" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1277425331" Module="1535681953" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1275520849" Module="1258453367" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1272908043" Module="1244540592" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1269453770" Module="865654883" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1268955485" Module="648277969" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1268243698" Module="1990366513" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1267347957" Module="1066683901" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1263719823" Module="2107305538" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1258705745" Module="222210705" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1256683154" Module="582716039" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1256396678" Module="673923187" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1256328015" Module="395294090" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1255738324" Module="766719832" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1252971653" Module="892061688" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1252767773" Module="1109170553" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1251411738" Module="1579842931" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1249566866" Module="1570595723" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1247398885" Module="32414849" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1245796135" Module="274754640" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1245456814" Module="337955144" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1239240753" Module="1262493672" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1236545742" Module="191510809" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1233400878" Module="1413819811" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1232877221" Module="1051441137" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1227993375" Module="1813927444" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1227497361" Module="1818183756" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1227276246" Module="1810429607" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1221471753" Module="656896031" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1216305583" Module="1672779981" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1214231400" Module="1223238131" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1211346798" Module="167707478" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1207835280" Module="1899793702" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1206997293" Module="1573056636" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1198878265" Module="879607528" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1194407659" Module="733348840" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1185611574" Module="1231890021" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1185214568" Module="230893412" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1174292631" Module="1049539318" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1174227064" Module="2134912814" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1172224471" Module="1485039017" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1169549667" Module="2119551359" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1163562700" Module="2023393004" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1160679118" Module="1484098925" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1159186679" Module="1406157797" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1154913039" Module="91505242" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1153583532" Module="1296262649" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1149509227" Module="1741330169" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1146479694" Module="673705573" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1145323327" Module="1309821178" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1143666005" Module="1042437259" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1141580646" Module="397463199" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1139539982" Module="2044162964" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1138265429" Module="274009341" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1134946018" Module="378294965" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1127790281" Module="1855609375" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1127194404" Module="1368780295" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1126987438" Module="1590709093" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1123972981" Module="2009248902" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1117718202" Module="1129222283" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1100056767" Module="1339639677" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1099608523" Module="268632955" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1097835917" Module="1076747070" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1097339254" Module="2006453640" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1095743173" Module="1762689649" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1091409444" Module="1530960911" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1089492282" Module="1784896448" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1088336864" Module="1855176094" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1086703980" Module="1108080447" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1083837084" Module="2122652175" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1083309249" Module="1278124009" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1080633086" Module="1187441095" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1079837178" Module="1283282762" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1075221129" Module="2031223678" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1069584591" Module="1874398679" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1068783029" Module="1171105149" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1068513033" Module="98647655" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1068172628" Module="408377309" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1067725884" Module="369533686" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1064146683" Module="2138185196" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1058411026" Module="241878685" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1057725078" Module="379900123" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1055813045" Module="1118533335" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1054160798" Module="1108853175" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1053183067" Module="1799563766" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1049844513" Module="518447630" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1048677914" Module="444222343" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1047788062" Module="1156755994" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1043754419" Module="1461488908" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1043535593" Module="482306750" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1040094965" Module="185329519" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1038541170" Module="294941091" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="5" />
+      <Parameter Handle="1038028586" Module="1613665172" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1033782133" Module="803275825" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1033207374" Module="338919489" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1031303055" Module="1555841407" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1025598033" Module="1985500780" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1023532713" Module="1369830445" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1019878878" Module="890295884" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1015150409" Module="384653346" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="1015069538" Module="1645140068" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1003379529" Module="710881043" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1001853175" Module="83421388" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1001045965" Module="1260927885" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="1000502531" Module="286258682" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="999810362" Module="154751643" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="998307496" Module="2067494924" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="996095049" Module="766346328" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="994322786" Module="1781603967" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="989388931" Module="693923859" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="982750877" Module="1168108361" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="982339995" Module="159130654" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="982230970" Module="248635158" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="980481889" Module="2066592717" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="976858943" Module="199588536" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="975003197" Module="1999165971" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="968296866" Module="390397652" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="962627323" Module="1835278336" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="960235368" Module="267557776" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="957870578" Module="631441239" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="957216744" Module="543886912" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="955717282" Module="267512641" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="955617134" Module="1939121812" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="954641580" Module="1286535010" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="947663735" Module="684077509" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="946986325" Module="2094633110" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="944084254" Module="1715314852" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="943919299" Module="1395543939" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="939062293" Module="1895596346" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="938617891" Module="779907431" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="930114869" Module="1261509511" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="929823242" Module="1506675129" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="927860373" Module="912051067" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="923793680" Module="988684338" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="922058806" Module="995243051" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="912853248" Module="1385884089" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="912391149" Module="1564320874" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="908660068" Module="2117396066" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="907114965" Module="2082596567" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="907087949" Module="1279387652" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="907065508" Module="1818023482" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="906866956" Module="9356470" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="904262668" Module="484080950" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="903273550" Module="1261490034" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="901643432" Module="582508776" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="901137362" Module="1122891600" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="900802438" Module="2061303040" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="899192468" Module="968707036" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="898892094" Module="1045406799" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="892731829" Module="13934226" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="888876181" Module="319719369" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="874667483" Module="778349901" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="873097173" Module="869223716" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="871699179" Module="1740095230" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="871217582" Module="1468074448" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="870192066" Module="852037183" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="868299095" Module="127410947" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="865652826" Module="1760824408" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="864606065" Module="1404444812" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="863803075" Module="1806976877" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="861908676" Module="381846665" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="860430008" Module="815998622" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="858590546" Module="2073742291" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="854625124" Module="1608856043" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="854202701" Module="1128759176" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="847455268" Module="642664079" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="845045368" Module="353737266" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="844556507" Module="509153707" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="841087304" Module="1652550391" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="839939401" Module="902552329" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="839685666" Module="1081993147" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="837742519" Module="1746336498" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="836716215" Module="2087513332" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="836014924" Module="990582662" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="832804002" Module="1118120396" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="832289632" Module="895973528" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="829123251" Module="1901658634" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="828988803" Module="1317987036" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="822879267" Module="1064390976" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="822876355" Module="1826342614" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="820302914" Module="364984362" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="819451726" Module="940749790" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="811212210" Module="1624967061" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="808981046" Module="75003665" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="807769512" Module="938743801" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="806927877" Module="814371374" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="806648749" Module="1435458891" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="806424469" Module="1524321324" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="802552276" Module="989370805" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="799610854" Module="608611352" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="792932426" Module="531495342" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="791946545" Module="1579859371" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="786580258" Module="385799234" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="785175811" Module="1602223555" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="785102817" Module="1536214409" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="783550151" Module="792690841" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="779159075" Module="1271370645" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="777292026" Module="656278647" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="767943630" Module="2124147495" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="767851731" Module="1426883070" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="763126325" Module="843060249" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="756121658" Module="1503064497" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="753127548" Module="203337399" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="746252541" Module="1290843750" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="737342513" Module="197616478" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="731398098" Module="1079830240" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="727709395" Module="2019982216" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="725385117" Module="1208779052" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="719546097" Module="1399517909" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="710052347" Module="1299272807" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="706661549" Module="201884370" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="702136652" Module="870328600" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="698780545" Module="18888898" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="695692556" Module="2055280127" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="695273448" Module="1202935905" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="686431878" Module="98458479" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="677365664" Module="1705246502" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="676441731" Module="2048381409" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="665659151" Module="709060076" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="663410459" Module="989465135" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="663375408" Module="55108384" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="660629631" Module="1941536236" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="659152956" Module="1745118611" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="657152510" Module="1050549153" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="655735958" Module="1181143480" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="654429857" Module="436192960" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="648047297" Module="1518794616" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="645937754" Module="893475584" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="641170829" Module="1633959898" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="636202562" Module="91784684" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="635321571" Module="1999639431" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="630256194" Module="1816250765" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="629382831" Module="1186830355" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="629181354" Module="1949334762" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="622110702" PatchCount="1" HostControl="49" Private="1" Name="" ValueType="10">
+        <patch-list>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENhYmxlcy8+CgA=</patch-list>
+      </Parameter>
+      <Parameter Handle="619836704" Module="1779764754" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="616859593" Module="716344930" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="610063639" Module="1473954890" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="606178607" Module="98396498" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="602820766" Module="1415020406" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="597526488" Module="289055335" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="595574833" Module="698671286" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="595068005" Module="1517657433" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="588618564" Module="1860686451" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="585829308" Module="1472826559" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="583897087" Module="959866237" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="576174512" Module="1654639127" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="573499869" Module="1709079078" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="572934690" Module="140539010" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="571223903" Module="898950040" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="568502168" Module="1223018927" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="562508278" Module="1380387252" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="560461934" Module="1429570472" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="556512604" Module="1124602472" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="551300772" Module="1838675679" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="545286618" Module="372428439" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="539613926" Module="1404970898" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="538170781" Module="6967827" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="537743536" Module="459650674" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="537625708" Module="1929889376" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="534608837" Module="1234050373" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="533282226" Module="229999003" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="531758467" Module="1250999580" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="530612826" Module="176426344" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="523481288" Module="1201172775" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="521637532" Module="936531118" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="517073947" Module="547450206" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="514756195" Module="1513321306" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="514589358" Module="1732013843" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="501862772" Module="1296236737" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="499179877" Module="255064245" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="498400990" Module="275642121" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="497936518" Module="848353332" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="497397226" Module="1534039803" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="496956668" Module="533050835" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="489230669" Module="1848497943" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="487559825" Module="1579006156" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="487481092" Module="375701598" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="481434418" Module="1751637668" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="472272604" Module="916790056" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="471753152" Module="478391839" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="470156177" Module="547322139" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="467194900" Module="1919645740" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="465711833" Module="1999406004" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="465645407" Module="546949875" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="465227855" Module="1983619697" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="463516421" Module="1660300746" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="463342376" Module="624955604" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="462751282" Module="383202329" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="459156455" Module="12497875" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="459114882" Module="576659121" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="451506981" Module="406311260" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="451328126" Module="1746734452" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="450603525" Module="279184915" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="448501734" Module="2052304745" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="447166002" Module="1920663642" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="438368811" Module="749884425" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="437747391" Module="84183708" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="436440067" Module="591761036" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="436010086" Module="125121703" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="431227426" Module="2088857255" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="430561570" Module="1213996387" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="428529849" Module="1707329577" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="427715981" Module="701971212" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="422766095" Module="218160250" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="414232055" Module="1514730753" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="412753564" Module="1099332361" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="412614656" Module="1023259486" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="411898787" Module="1131185678" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="406977097" Module="1939907971" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="403872302" Module="1349588127" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="397809519" Module="1161317038" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="391124527" Module="809957637" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="389752664" Module="1560408174" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="387424964" Module="998520725" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="5" />
+      <Parameter Handle="385600242" Module="713664897" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="380572201" Module="1054146596" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="380139764" Module="1407927803" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="379861532" Module="2114321797" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="379706462" Module="1045297880" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="377567371" Module="1655712718" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="371641521" Module="1439539804" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="370336593" Module="1185817314" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="366408616" Module="1708131543" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="365956847" Module="940596722" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="365524087" Module="1979035794" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="364057161" Module="160154674" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="363222425" Module="1794105005" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="362605343" Module="441500912" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="361455936" Module="1508391497" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="357778736" Module="2038765396" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="348239391" Module="1798359249" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="345253949" Module="988620377" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="344118372" Module="565521357" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="338724105" Module="1254648958" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="328758196" Module="885795582" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="328604040" Module="1829100622" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="328498535" Module="142297547" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="327340187" Module="408872784" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="324805770" Module="170418901" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="322960268" Module="347564761" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="321580511" Module="63829356" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="320839041" Module="1717179391" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="318512876" Module="1771384058" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="317372765" Module="1642123484" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="316578554" Module="869032970" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="310044266" Module="1073503674" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="305383280" Module="1059115754" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="302239330" Module="309989982" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="301638471" Module="313667265" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="295766042" Module="873650524" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="295626501" Module="346655809" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="295141371" Module="1844547530" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="294640915" Module="1702068395" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="290528228" Module="877770396" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="285124556" Module="1650392959" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="282686878" Module="2016968012" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="276294281" Module="1346806475" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="275168362" Module="1401664558" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="273876282" Module="1619390181" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="266275777" Module="1242449821" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="261082566" Module="1013053956" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="257233170" Module="1999560739" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="255628970" Module="1943292520" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="255036693" Module="802210247" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="253612117" Module="2030380325" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="249485294" Module="730089033" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="247059610" Module="1122007685" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="244116887" Module="1681283700" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="242805682" Module="607193761" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="242686658" Module="1134195836" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="239163899" Module="1091914726" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="238550317" Module="811925935" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="234986244" Module="1114252674" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="234411880" Module="1852888618" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="232450150" Module="753204732" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="231665524" Module="665278379" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="231566107" Module="851690680" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="230192324" Module="393081820" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="223451592" Module="230427020" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="220090075" Module="1522685519" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="219800049" Module="1843669890" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="218865991" Module="540799457" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="216441061" Module="1793695700" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="215820202" Module="932196965" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMaximum="2" />
+      <Parameter Handle="214965977" Module="357180266" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="210122325" Module="918619912" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="209695883" Module="1520939001" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="209285533" Module="1233742586" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="204523437" Module="1162638618" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="204373933" Module="2047450953" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="203747911" Module="147528200" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="201677603" Module="511445937" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="200483022" Module="2023874391" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="192823855" Module="1714614519" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="190760520" Module="892279073" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="183592488" Module="236951013" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="179854657" Module="1193220582" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="179032323" Module="911214757" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="177787386" Module="499079243" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="175289688" Module="1142088451" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="174413473" Module="928341420" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="165204702" Module="800548545" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="163958890" Module="1292677818" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="157289656" Module="1504041552" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="157161381" Module="966100251" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="154913185" Module="1458146954" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="151925267" Module="719513777" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="151902116" Module="473054537" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="149295770" Module="1676773554" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="140551847" Module="1904643798" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="137604650" Module="715299226" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="134379774" Module="706430556" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="134233670" Module="777084862" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="131829449" Module="104665704" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="127714735" Module="796379134" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="125054865" Module="1038804116" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="124035331" Module="726069447" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="123705654" Module="1538584046" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="122181415" Module="1234964757" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="116590249" Module="1149634002" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="116488906" Module="1477258172" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="115950987" Module="2098113441" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="109481531" Module="1483105167" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="108520059" Module="283383409" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="97595499" Module="1584020852" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="97249925" Module="1156528240" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="96478273" Module="812986119" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="95939069" Module="1734452449" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="93956964" Module="1032822740" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="92399654" Module="1108053433" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="89961525" Module="1700337307" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="89448490" Module="1168082477" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="83888013" Module="1079383006" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="79807404" Module="545485608" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="78457331" Module="1766534589" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="76433383" Module="1060262661" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="69748082" Module="987294976" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="67995859" Module="988700081" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="65624248" Module="348795089" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="59031208" Module="969835046" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="54890949" Module="1010629892" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="53854670" Module="443893832" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="49913905" Module="230930314" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="49615723" Module="1743194106" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="47038083" Module="91979022" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="45602294" Module="2065512103" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="44943615" Module="791800672" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="44608871" Module="1406730061" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="43617096" Module="297791387" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="37700057" Module="740650650" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="36421668" Module="534629323" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="33600374" Module="1601716673" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="29944466" Module="302923925" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="25878530" Module="294038439" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="24749053" Module="1112270653" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="17590721" Module="9504422" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="14310563" Module="245330773" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="12378344" Module="1696445154" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="12360670" Module="1309391069" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="12060488" Module="2120764394" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="7911445" Module="333378601" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="588480" Module="424142105" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="" />
+      <Parameter Handle="916426666" Module="485483830" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="And 1" RangeMaximum="2" />
+      <Parameter Handle="21428378" Module="406384812" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="And 1" RangeMaximum="2" />
+      <Parameter Handle="1795378238" ContainerHandle="15409" Module="15409" PatchCount="1" MIDI="100663296" HostControl="15" ignoreProgramChange="1" Private="1" persistant="0" Name="Bender" RangeMinimum="-1" RangeMaximum="1" />
+      <Parameter Handle="1395408255" ContainerHandle="15409" Module="15409" PatchCount="1" MIDI="50331648" HostControl="42" ignoreProgramChange="1" Private="1" Name="BenderRange" RangeMaximum="127.992">
+        <patch-list>2</patch-list>
+      </Parameter>
+      <Parameter Handle="2143973838" isPolyphonic="1" Module="1942253865" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="2085416792" isPolyphonic="1" Module="726137513" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="2020777839" isPolyphonic="1" Module="272779128" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1970759846" isPolyphonic="1" Module="364665109" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1918895951" isPolyphonic="1" Module="80469902" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1729621153" isPolyphonic="1" Module="891131928" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1702791373" isPolyphonic="1" Module="174593742" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1638319850" isPolyphonic="1" Module="1652283888" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1624830596" isPolyphonic="1" Module="519690152" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1545571873" isPolyphonic="1" Module="1221469276" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1522053878" isPolyphonic="1" Module="1275643213" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1509137892" isPolyphonic="1" Module="462139452" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1499943199" isPolyphonic="1" Module="2132195923" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1489666255" isPolyphonic="1" Module="314730741" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1446849542" isPolyphonic="1" Module="964407522" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1442935886" isPolyphonic="1" Module="2057701756" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1431194605" isPolyphonic="1" Module="1008288004" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1430533910" isPolyphonic="1" Module="978203046" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1400247091" isPolyphonic="1" Module="1328048357" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1254157785" isPolyphonic="1" Module="508043162" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1074153054" isPolyphonic="1" Module="1296372131" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="1072433409" isPolyphonic="1" Module="222819668" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="924995406" isPolyphonic="1" Module="1125420065" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="872681299" isPolyphonic="1" Module="758729793" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="860077241" isPolyphonic="1" Module="356345014" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="815793377" isPolyphonic="1" Module="303179025" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="783384967" isPolyphonic="1" Module="44067773" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="754873894" isPolyphonic="1" Module="1521747567" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="678561718" isPolyphonic="1" Module="1756642172" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="651153445" isPolyphonic="1" Module="1310924329" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="639984033" isPolyphonic="1" Module="821181208" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="546851651" isPolyphonic="1" Module="1464425486" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="544535230" isPolyphonic="1" Module="396100836" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="494521482" isPolyphonic="1" Module="821104156" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="449167686" isPolyphonic="1" Module="1994752361" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="406938509" isPolyphonic="1" Module="356750009" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="400824838" isPolyphonic="1" Module="673142624" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="333228143" isPolyphonic="1" Module="1983595674" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="217096004" isPolyphonic="1" Module="1157949411" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="174266077" isPolyphonic="1" Module="1838572324" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="157995456" isPolyphonic="1" Module="1206249049" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="147139979" isPolyphonic="1" Module="552166337" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="92673454" isPolyphonic="1" Module="1027474590" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="21791225" isPolyphonic="1" Module="1020800188" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data A" ValueType="10" />
+      <Parameter Handle="2120738249" isPolyphonic="1" Module="1125420065" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1964852335" isPolyphonic="1" Module="272779128" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1886430805" isPolyphonic="1" Module="508043162" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1883685681" isPolyphonic="1" Module="44067773" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1868495371" isPolyphonic="1" Module="1157949411" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1858013507" isPolyphonic="1" Module="726137513" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1799943782" isPolyphonic="1" Module="519690152" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1765721217" isPolyphonic="1" Module="821104156" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1764718592" isPolyphonic="1" Module="1020800188" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1761788317" isPolyphonic="1" Module="80469902" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1634636507" isPolyphonic="1" Module="356345014" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1596896466" isPolyphonic="1" Module="1296372131" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1535579275" isPolyphonic="1" Module="673142624" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1432105534" isPolyphonic="1" Module="1756642172" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1427023983" isPolyphonic="1" Module="1328048357" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1352213774" isPolyphonic="1" Module="1275643213" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1347000324" isPolyphonic="1" Module="2132195923" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1337358957" isPolyphonic="1" Module="314730741" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1317931460" isPolyphonic="1" Module="364665109" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1257286103" isPolyphonic="1" Module="1310924329" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1116994848" isPolyphonic="1" Module="821181208" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="965700325" isPolyphonic="1" Module="978203046" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="884226079" isPolyphonic="1" Module="1206249049" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="865505680" isPolyphonic="1" Module="552166337" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="778470794" isPolyphonic="1" Module="1994752361" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="754466128" isPolyphonic="1" Module="303179025" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="673448397" isPolyphonic="1" Module="891131928" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="654911198" isPolyphonic="1" Module="462139452" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="645853965" isPolyphonic="1" Module="1008288004" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="603174723" isPolyphonic="1" Module="1983595674" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="570501156" isPolyphonic="1" Module="1221469276" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="505777158" isPolyphonic="1" Module="174593742" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="473546308" isPolyphonic="1" Module="2057701756" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="411074148" isPolyphonic="1" Module="964407522" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="304357568" isPolyphonic="1" Module="1838572324" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="295848830" isPolyphonic="1" Module="356750009" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="231861333" isPolyphonic="1" Module="1027474590" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="229217874" isPolyphonic="1" Module="1942253865" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="207056497" isPolyphonic="1" Module="1464425486" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="192291257" isPolyphonic="1" Module="222819668" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="159764477" isPolyphonic="1" Module="758729793" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="104694928" isPolyphonic="1" Module="1652283888" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="60248050" isPolyphonic="1" Module="396100836" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="15214978" isPolyphonic="1" Module="1521747567" ModuleParamId="1" VoiceCount="128" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="Capture Data B" ValueType="10" />
+      <Parameter Handle="1323683105" ContainerHandle="15409" Module="15409" PatchCount="1" MIDI="117440512" HostControl="17" ignoreProgramChange="1" Private="1" persistant="0" Name="Channel Pressure" RangeMaximum="1" />
+      <Parameter Handle="852868166" ContainerHandle="15409" Module="15409" PatchCount="1" MIDI="33554496" HostControl="16" ignoreProgramChange="1" Private="1" persistant="0" Name="HoldPedal" />
+      <Parameter Handle="1533532695" ContainerHandle="15409" Module="15409" PatchCount="1" MIDI="33554437" HostControl="40" ignoreProgramChange="1" Private="1" Name="Portamento">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="2016955628" isPolyphonic="1" ContainerHandle="520077947" Module="520077947" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="2004555721" isPolyphonic="1" ContainerHandle="1499733955" Module="1499733955" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1987375770" isPolyphonic="1" ContainerHandle="1121051630" Module="1121051630" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1852381260" isPolyphonic="1" ContainerHandle="20176021" Module="20176021" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1844601680" isPolyphonic="1" ContainerHandle="179270366" Module="179270366" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1813899304" isPolyphonic="1" ContainerHandle="1084316181" Module="1084316181" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1734648712" isPolyphonic="1" ContainerHandle="185470791" Module="185470791" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1718865604" isPolyphonic="1" ContainerHandle="1494509544" Module="1494509544" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1706489355" isPolyphonic="1" ContainerHandle="65710233" Module="65710233" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1695414503" isPolyphonic="1" ContainerHandle="1200440641" Module="1200440641" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1662530702" isPolyphonic="1" ContainerHandle="1426041116" Module="1426041116" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1426212264" isPolyphonic="1" ContainerHandle="1336646910" Module="1336646910" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1390645144" isPolyphonic="1" ContainerHandle="606558854" Module="606558854" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1377604456" isPolyphonic="1" ContainerHandle="524769462" Module="524769462" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1307189144" isPolyphonic="1" ContainerHandle="1277345774" Module="1277345774" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1288597787" isPolyphonic="1" ContainerHandle="1568945128" Module="1568945128" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1197835604" isPolyphonic="1" ContainerHandle="1352449841" Module="1352449841" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1172217928" isPolyphonic="1" ContainerHandle="1767800450" Module="1767800450" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1169504214" isPolyphonic="1" ContainerHandle="279717603" Module="279717603" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1081214573" isPolyphonic="1" ContainerHandle="157157857" Module="157157857" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="1038992922" isPolyphonic="1" ContainerHandle="415948639" Module="415948639" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="985890082" isPolyphonic="1" ContainerHandle="49582724" Module="49582724" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="876387718" isPolyphonic="1" ContainerHandle="1616786730" Module="1616786730" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="873810052" isPolyphonic="1" ContainerHandle="1323446" Module="1323446" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="861615020" isPolyphonic="1" ContainerHandle="860059858" Module="860059858" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="826689412" isPolyphonic="1" ContainerHandle="576268978" Module="576268978" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="823238153" isPolyphonic="1" ContainerHandle="2066782294" Module="2066782294" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="811644950" isPolyphonic="1" ContainerHandle="39949373" Module="39949373" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="802832793" isPolyphonic="1" ContainerHandle="1396880667" Module="1396880667" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="793313835" isPolyphonic="1" ContainerHandle="892264967" Module="892264967" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="788776509" isPolyphonic="1" ContainerHandle="924918742" Module="924918742" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="746776865" isPolyphonic="1" ContainerHandle="1186219713" Module="1186219713" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="739351078" isPolyphonic="1" ContainerHandle="1330660953" Module="1330660953" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="707516544" isPolyphonic="1" ContainerHandle="290053967" Module="290053967" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="684593276" isPolyphonic="1" ContainerHandle="427422871" Module="427422871" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="683360234" isPolyphonic="1" ContainerHandle="2096155530" Module="2096155530" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="651230216" isPolyphonic="1" ContainerHandle="1634767706" Module="1634767706" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="629086927" isPolyphonic="1" ContainerHandle="1653703267" Module="1653703267" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="612678235" isPolyphonic="1" ContainerHandle="907569932" Module="907569932" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="555627852" isPolyphonic="1" ContainerHandle="1202167817" Module="1202167817" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="483095419" isPolyphonic="1" ContainerHandle="547326148" Module="547326148" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="478293604" isPolyphonic="1" ContainerHandle="881904888" Module="881904888" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="411931981" isPolyphonic="1" ContainerHandle="1224390986" Module="1224390986" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="272646144" isPolyphonic="1" ContainerHandle="1597901965" Module="1597901965" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="196549817" isPolyphonic="1" ContainerHandle="864583763" Module="864583763" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="170487511" isPolyphonic="1" ContainerHandle="85319851" Module="85319851" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="130594174" isPolyphonic="1" ContainerHandle="729025574" Module="729025574" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="121592832" isPolyphonic="1" ContainerHandle="1472744330" Module="1472744330" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="0" isPolyphonic="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="2043320008" isPolyphonic="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="385875968" HostControl="10" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Aftertouch" />
+      <Parameter Handle="2146498796" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="20176021" Module="20176021" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="2121531423" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="606558854" Module="606558854" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1962653870" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1616786730" Module="1616786730" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1872728856" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="85319851" Module="85319851" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1800723366" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="279717603" Module="279717603" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1787908098" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="415948639" Module="415948639" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1593778848" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="179270366" Module="179270366" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1530047900" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="427422871" Module="427422871" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1519191321" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="907569932" Module="907569932" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1513566221" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1084316181" Module="1084316181" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1491479375" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="39949373" Module="39949373" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1236284637" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1597901965" Module="1597901965" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1183385192" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1472744330" Module="1472744330" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1133037494" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1330660953" Module="1330660953" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1122228208" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1396880667" Module="1396880667" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1098657183" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1767800450" Module="1767800450" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1046869209" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="49582724" Module="49582724" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1013580242" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1224390986" Module="1224390986" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="958709365" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="185470791" Module="185470791" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="899170790" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="157157857" Module="157157857" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="894245824" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1494509544" Module="1494509544" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="831173325" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="729025574" Module="729025574" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="817567278" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="547326148" Module="547326148" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="769923579" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1653703267" Module="1653703267" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="702838971" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="892264967" Module="892264967" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="693096775" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="576268978" Module="576268978" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="668131750" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="881904888" Module="881904888" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="591041865" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="860059858" Module="860059858" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="583478098" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="2066782294" Module="2066782294" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="523665760" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1121051630" Module="1121051630" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="445308177" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1277345774" Module="1277345774" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="334786221" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1634767706" Module="1634767706" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="226314886" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="864583763" Module="864583763" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="221725582" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1499733955" Module="1499733955" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="195765612" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1323446" Module="1323446" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="185156645" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="520077947" Module="520077947" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="133135374" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="123735981" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="290053967" Module="290053967" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="113869787" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1352449841" Module="1352449841" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="87801658" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1568945128" Module="1568945128" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="84987685" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1186219713" Module="1186219713" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="73463961" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="2096155530" Module="2096155530" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="51857141" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="524769462" Module="524769462" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="39940922" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="1200440641" Module="1200440641" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="5551873" isPolyphonic="1" isPolyphonicGate="1" ContainerHandle="65710233" Module="65710233" VoiceCount="128" PatchCount="1" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="1537727996" isPolyphonic="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="301989888" HostControl="41" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/GlideStartPitch" />
+      <Parameter Handle="31801676" isPolyphonic="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="318767104" HostControl="7" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Pitch" />
+      <Parameter Handle="1306566530" isPolyphonic="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="402653184" HostControl="5" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Trigger" />
+      <Parameter Handle="1973224534" isPolyphonic="1" ContainerHandle="15409" Module="15409" VoiceCount="128" PatchCount="1" MIDI="352321536" HostControl="8" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/VelocityKeyOn" />
+      <Parameter Handle="546389762" ContainerHandle="15409" Module="15409" PatchCount="1" HostControl="14" ignoreProgramChange="1" Private="1" Name="VoiceAllocationMode" ValueType="8" RangeMinimum="1" RangeMaximum="128">
+        <patch-list>768</patch-list>
+      </Parameter>
+      <Parameter Handle="2093117836" Module="1275643213" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="2040346293" Module="978203046" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="2011284868" Module="1296372131" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1974363188" Module="1157949411" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1806778862" Module="303179025" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1775094722" Module="174593742" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1771793030" Module="272779128" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1758048636" Module="1125420065" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1690259585" Module="2132195923" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1677810542" Module="552166337" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1667634784" Module="1756642172" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1650400024" Module="821104156" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1641120726" Module="1027474590" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1586382579" Module="821181208" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1567606948" Module="891131928" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1478495795" Module="1221469276" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1401623673" Module="673142624" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1239575284" Module="1206249049" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="1189222221" Module="1328048357" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="996641016" Module="1008288004" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="894841968" Module="1994752361" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="813946932" Module="364665109" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="786409924" Module="44067773" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="783945060" Module="80469902" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="740246510" Module="1942253865" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="737894800" Module="2057701756" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="708535801" Module="1838572324" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="699848097" Module="1652283888" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="666944313" Module="222819668" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="662963089" Module="726137513" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="547187676" Module="356345014" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="540763512" Module="396100836" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="497328883" Module="1020800188" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="435273549" Module="1464425486" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="422130046" Module="1310924329" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="377292890" Module="758729793" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="263767907" Module="1983595674" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="211299828" Module="964407522" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="152620380" Module="356750009" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="152304414" Module="508043162" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="148300880" Module="314730741" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="111671171" Module="462139452" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="45426949" Module="519690152" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="2795764" Module="1521747567" ModuleParamId="2" PatchCount="1" ignoreProgramChange="1" Private="1" persistant="0" Name="polyDetect" ValueType="4" />
+      <Parameter Handle="302262698" Module="1951678794" PatchCount="1" Index="60" Name="Wave 4 Pitch Shift">
+        <patch-list>5.2769</patch-list>
+      </Parameter>
+      <Parameter Handle="439398467" Module="1654902785" PatchCount="1" Index="63" Name="Level Adj Input 1">
+        <patch-list>8.6549</patch-list>
+      </Parameter>
+      <Parameter Handle="518797440" Module="1105215315" PatchCount="1" Index="64" Name="Level Adj Input 1">
+        <patch-list>8.58335</patch-list>
+      </Parameter>
+      <Parameter Handle="730500378" Module="1707741967" PatchCount="1" Index="65" Name="Level Adj Input 1">
+        <patch-list>8.67728</patch-list>
+      </Parameter>
+      <Parameter Handle="1071321635" Module="1526954931" PatchCount="1" Index="66" Name="Level Adj Input 1">
+        <patch-list>8.75961</patch-list>
+      </Parameter>
+      <Parameter Handle="1245412005" Module="625679237" PatchCount="1" Index="67" Name="Level Adj Input 1">
+        <patch-list>8.68068</patch-list>
+      </Parameter>
+      <Parameter Handle="1933463239" Module="564711149" PatchCount="1" Index="68" Name="Level Adj Input 1">
+        <patch-list>8.70798</patch-list>
+      </Parameter>
+      <Parameter Handle="212939678" Module="1404083934" PatchCount="1" Index="73" Name="Wave Player Pitch Shift">
+        <patch-list>5.27588</patch-list>
+      </Parameter>
+      <Parameter Handle="954462196" Module="2059711591" PatchCount="1" Index="74" Name="Wave Player Pitch Shift">
+        <patch-list>5.19931</patch-list>
+      </Parameter>
+      <Parameter Handle="2031578043" Module="1462973398" PatchCount="1" Index="75" Name="Wave Player Pitch Shift">
+        <patch-list>5.42531</patch-list>
+      </Parameter>
+      <Parameter Handle="2131511789" Module="2116555402" PatchCount="1" Index="76" Name="Wave Player Pitch Shift">
+        <patch-list>5.51522</patch-list>
+      </Parameter>
+      <Parameter Handle="235128692" Module="447346507" PatchCount="1" Index="77" Name="ADSR2 Attack">
+        <patch-list>0.0278307</patch-list>
+      </Parameter>
+      <Parameter Handle="1758133589" Module="627326101" PatchCount="1" Index="78" Name="ADSR2 Attack">
+        <patch-list>0.0278307</patch-list>
+      </Parameter>
+      <Parameter Handle="2129865258" Module="1370408988" PatchCount="1" Index="79" Name="ADSR2 Attack">
+        <patch-list>0.0278307</patch-list>
+      </Parameter>
+      <Parameter Handle="292527247" Module="544627842" PatchCount="1" Index="80" Name="ADSR2 Decay">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="365083872" Module="712778030" PatchCount="1" Index="81" Name="ADSR2 Decay">
+        <patch-list>9.99152</patch-list>
+      </Parameter>
+      <Parameter Handle="501152479" Module="2073481207" PatchCount="1" Index="82" Name="ADSR2 Decay">
+        <patch-list>6.56974</patch-list>
+      </Parameter>
+      <Parameter Handle="607259088" Module="1110852503" PatchCount="1" Index="83" Name="ADSR2 Decay">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="809855204" Module="961469739" PatchCount="1" Index="84" Name="ADSR2 Decay">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="1188424806" Module="1883460827" PatchCount="1" Index="85" Name="ADSR2 Decay">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="1197081504" Module="915168812" PatchCount="1" Index="86" Name="ADSR2 Decay">
+        <patch-list>5.80826</patch-list>
+      </Parameter>
+      <Parameter Handle="1421974132" Module="61438784" PatchCount="1" Index="87" Name="ADSR2 Decay">
+        <patch-list>9.99888</patch-list>
+      </Parameter>
+      <Parameter Handle="1635355563" Module="2071291450" PatchCount="1" Index="88" Name="ADSR2 Decay">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="2134815278" Module="2138798671" PatchCount="1" Index="89" Name="ADSR2 Decay">
+        <patch-list>6.93072</patch-list>
+      </Parameter>
+      <Parameter Handle="517999396" Module="1945951127" PatchCount="1" Index="90" Name="ADSR2 Overall Level">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="754122533" Module="862099029" PatchCount="1" Index="91" Name="ADSR2 Overall Level">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="2093752440" Module="118714515" PatchCount="1" Index="92" Name="ADSR2 Overall Level">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="460228826" Module="472376791" PatchCount="1" MIDI="-16777216" Index="93" Name="ADSR2 Release">
+        <patch-list>0.0218267</patch-list>
+      </Parameter>
+      <Parameter Handle="637217645" Module="610327663" PatchCount="1" MIDI="-16777216" Index="94" Name="ADSR2 Release">
+        <patch-list>0.0218267</patch-list>
+      </Parameter>
+      <Parameter Handle="1114708715" Module="996639613" PatchCount="1" MIDI="-16777216" Index="95" Name="ADSR2 Release">
+        <patch-list>0.0218267</patch-list>
+      </Parameter>
+      <Parameter Handle="724665814" Module="1674318316" PatchCount="1" Index="96" Name="ADSR2 Sustain">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1196742295" Module="1241007368" PatchCount="1" Index="97" Name="ADSR2 Sustain">
+        <patch-list>0.665925</patch-list>
+      </Parameter>
+      <Parameter Handle="1978789755" Module="227621615" PatchCount="1" Index="98" Name="ADSR2 Sustain">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="39449927" Module="269600312" PatchCount="1" Index="99" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="43474075" Module="498484744" PatchCount="1" Index="100" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="637896041" Module="1210383272" PatchCount="1" Index="101" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="681574996" Module="561131765" PatchCount="1" Index="102" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="761817331" Module="251287389" PatchCount="1" Index="103" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="857159876" Module="1286705682" PatchCount="1" Index="104" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1017277433" Module="485544977" PatchCount="1" Index="105" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="1113819113" Module="747794473" PatchCount="1" Index="106" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="1210769803" Module="580160434" PatchCount="1" Index="107" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1259264425" Module="43956430" PatchCount="1" Index="108" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1301707508" Module="1003523963" PatchCount="1" Index="109" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="1398423332" Module="1646424850" PatchCount="1" Index="110" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="1499091095" Module="1929523286" PatchCount="1" Index="111" Name="AND Gate Input" RangeMinimum="-5">
+        <patch-list>-5</patch-list>
+      </Parameter>
+      <Parameter Handle="1525411091" Module="700509461" PatchCount="1" Index="112" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1616914975" Module="430346435" PatchCount="1" Index="113" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1683845309" Module="1380799170" PatchCount="1" Index="114" Name="AND Gate Input">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="993339420" Module="1087516874" PatchCount="1" Index="115" Name="BPM Clock4 Rate" ValueType="8" MetaData="32=49152,16=24576,8=12288,4=6144,2=3072,1=1536,1 d=2304,1 t=1024,1/2=768,1/2 d=1152,1/2 t=512,1/4=384,1/4 d=576,1/4 t=256,1/8=192,1/8 d=288,1/8 t=128,1/16=96,1/16 d=144,1/16 t=64,1/32=48,1/32 d=72,1/32 t=32,1/64=24,1/64 d=36,1/64 t=16,1/128=12,1/128 d=18,1/128 t=8,1/256=6,1/256 d=9,1/256 t=4">
+        <patch-list>96</patch-list>
+      </Parameter>
+      <Parameter Handle="1854179057" Module="531100037" PatchCount="1" Index="116" Name="BPM Clock4 Rate" ValueType="8" MetaData="32=49152,16=24576,8=12288,4=6144,2=3072,1=1536,1 d=2304,1 t=1024,1/2=768,1/2 d=1152,1/2 t=512,1/4=384,1/4 d=576,1/4 t=256,1/8=192,1/8 d=288,1/8 t=128,1/16=96,1/16 d=144,1/16 t=64,1/32=48,1/32 d=72,1/32 t=32,1/64=24,1/64 d=36,1/64 t=16,1/128=12,1/128 d=18,1/128 t=8,1/256=6,1/256 d=9,1/256 t=4">
+        <patch-list>96</patch-list>
+      </Parameter>
+      <Parameter Handle="461718225" Module="1261001601" PatchCount="1" Index="117" Name="LFO 1 Phase Mod">
+        <patch-list>0.000514746</patch-list>
+      </Parameter>
+      <Parameter Handle="522792705" Module="996141423" PatchCount="1" Index="118" Name="LFO 1 Phase Mod">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="648987340" Module="608911666" PatchCount="1" Index="119" Name="LFO 1 Phase Mod">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1084470449" Module="538700486" PatchCount="1" Index="120" Name="LFO 1 Pitch" RangeMinimum="-10" RangeMaximum="0">
+        <patch-list>0.64432</patch-list>
+      </Parameter>
+      <Parameter Handle="1271324389" Module="2115588746" PatchCount="1" Index="121" Name="LFO 1 Pitch" RangeMinimum="-10" RangeMaximum="0">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1616693092" Module="1337576868" PatchCount="1" Index="122" Name="LFO 1 Pitch" RangeMinimum="-10" RangeMaximum="0">
+        <patch-list>0.64432</patch-list>
+      </Parameter>
+      <Parameter Handle="517956453" Module="147008728" PatchCount="1" MIDI="-16777216" Index="123" Name="LFO 1 Waveform" ValueType="8" MetaData="Sine, Saw, Ramp, Triangle, Pulse,White Noise,Pink Noise">
+        <patch-list>4</patch-list>
+      </Parameter>
+      <Parameter Handle="646327158" Module="2077148173" PatchCount="1" MIDI="-16777216" Index="124" Name="LFO 1 Waveform" ValueType="8" MetaData="Sine, Saw, Ramp, Triangle, Pulse,White Noise,Pink Noise">
+        <patch-list>4</patch-list>
+      </Parameter>
+      <Parameter Handle="1411664407" Module="1879161830" PatchCount="1" MIDI="-16777216" Index="125" Name="LFO 1 Waveform" ValueType="8" MetaData="Sine, Saw, Ramp, Triangle, Pulse,White Noise,Pink Noise">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="168955082" Module="1897230652" PatchCount="1" Index="126" Name="Level Adj Input 1">
+        <patch-list>8.95105</patch-list>
+      </Parameter>
+      <Parameter Handle="247535147" Module="1714772925" PatchCount="1" Index="127" Name="Level Adj Input 1">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="297363567" Module="256046109" PatchCount="1" Index="128" Name="Level Adj Input 1">
+        <patch-list>5.18323</patch-list>
+      </Parameter>
+      <Parameter Handle="1638544086" Module="592528866" PatchCount="1" Index="129" Name="Level Adj Input 1">
+        <patch-list>9.1202</patch-list>
+      </Parameter>
+      <Parameter Handle="21345912" Module="1341761516" PatchCount="1" Index="130" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,Trig1,Trig2,Trig3,Trig4,Trig5,Trig6,Trig7,Trig8">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="76415959" Module="1915742507" PatchCount="1" Index="131" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData=" ---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="86168940" Module="1540890592" PatchCount="1" Index="132" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="165651720" Module="2081820668" PatchCount="1" Index="133" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="253490146" Module="1653914139" PatchCount="1" Index="134" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,Pitch1,Pitch2,Pitch3,Pitch4,Pitch5,Pitch6,Pitch7,Pitch8,Decay1,Decay2,Decay3,Decay4,Decay5,Decay6,Decay7,Decay8,Vol1,Vol2,Vol3,Vol4,Vol5,Vol6,Vol7,Vol8,And1,And2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="413799145" Module="1647414806" PatchCount="1" Index="135" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,And1,And2,Pitch1,Pitch2,Pitch3,Pitch4,Pitch5,Pitch6,Pitch7,Pitch8,Decay1,Decay2,Decay3,Decay4,Decay5,Decay6,Decay7,Decay8,Vol1,Vol2,Vol3,Vol4,Vol5,Vol6,Vol7,Vol8">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="596014204" Module="1085592485" PatchCount="1" Index="136" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="599877896" Module="1131041571" PatchCount="1" Index="137" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="708404272" Module="205285310" PatchCount="1" Index="138" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="714351427" Module="410974768" PatchCount="1" Index="139" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="798011549" Module="1384074651" PatchCount="1" Index="140" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="831064270" Module="1608972433" PatchCount="1" Index="141" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData=" ---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1064838682" Module="1866793587" PatchCount="1" Index="142" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1077577041" Module="1445025137" PatchCount="1" Index="143" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1130185671" Module="1171670826" PatchCount="1" Index="144" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,And1,And2,Pitch1,Pitch2,Pitch3,Pitch4,Pitch5,Pitch6,Pitch7,Pitch8,Decay1,Decay2,Decay3,Decay4,Decay5,Decay6,Decay7,Decay8,Vol1,Vol2,Vol3,Vol4,Vol5,Vol6,Vol7,Vol8">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1270363632" Module="415324876" PatchCount="1" Index="145" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1297556486" Module="1529052828" PatchCount="1" Index="146" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,Pitch1,Pitch2,Pitch3,Pitch4,Pitch5,Pitch6,Pitch7,Pitch8,Decay1,Decay2,Decay3,Decay4,Decay5,Decay6,Decay7,Decay8,Vol1,Vol2,Vol3,Vol4,Vol5,Vol6,Vol7,Vol8,And1,And2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1312567764" Module="89249102" PatchCount="1" Index="147" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,Trig1,Trig2,Trig3,Trig4,Trig5,Trig6,Spare,Spare">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1358169287" Module="34106305" PatchCount="1" Index="148" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1461161969" Module="1075420267" PatchCount="1" Index="149" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1468235692" Module="955094017" PatchCount="1" Index="150" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,Pitch1,Pitch2,Pitch3,Pitch4,Pitch5,Pitch6,Pitch7,Pitch8,Decay1,Decay2,Decay3,Decay4,Decay5,Decay6,Decay7,Decay8,Vol1,Vol2,Vol3,Vol4,Vol5,Vol6,Vol7,Vol8,And1,And2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1482776128" Module="836890569" PatchCount="1" Index="151" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1593876377" Module="584878729" PatchCount="1" Index="152" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1766434089" Module="619532874" PatchCount="1" Index="153" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs2">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1843397172" Module="1450360079" PatchCount="1" Index="154" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,-1-,-2-,-3-,-4-,-5-,-6-,-7-,-8-,en1,en2,en3,rs1">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="2111658606" Module="442413949" PatchCount="1" Index="155" Name="Switch (1-&gt;Many) Choice" ValueType="8" MetaData="---,And1,And2,Pitch1,Pitch2,Pitch3,Pitch4,Pitch5,Pitch6,Pitch7,Pitch8,Decay1,Decay2,Decay3,Decay4,Decay5,Decay6,Decay7,Decay8,Vol1,Vol2,Vol3,Vol4,Vol5,Vol6,Vol7,Vol8">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="73727932" Module="1284839758" PatchCount="1" Index="156" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="355163865" Module="1101172851" PatchCount="1" Index="157" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="396947647" Module="49268027" PatchCount="1" Index="158" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:4,2:4,4:4,3:4">
+        <patch-list>2</patch-list>
+      </Parameter>
+      <Parameter Handle="412959056" Module="228099725" PatchCount="1" Index="159" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="670173092" Module="952911982" PatchCount="1" Index="160" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n4:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="727025102" Module="824157542" PatchCount="1" Index="161" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:4,2:4,4:4,3:4">
+        <patch-list>2</patch-list>
+      </Parameter>
+      <Parameter Handle="732533453" Module="1191109758" PatchCount="1" Index="162" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n24,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="831979646" Module="511169111" PatchCount="1" Index="163" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1082881867" Module="1595068989" PatchCount="1" Index="164" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1083648902" Module="2061862602" PatchCount="1" Index="165" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n4:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1221201216" Module="294430433" PatchCount="1" Index="166" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1358680006" Module="693652198" PatchCount="1" Index="167" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1439853176" Module="1328499599" PatchCount="1" Index="168" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1833218172" Module="1620033284" PatchCount="1" Index="169" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n34,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1908470043" Module="2134328207" PatchCount="1" Index="170" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1985854978" Module="535509018" PatchCount="1" Index="171" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="2105132038" Module="1439486859" PatchCount="1" Index="172" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n3:4,n24,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="2139027364" Module="1081378036" PatchCount="1" Index="173" Name="Switch &gt; (Int) Choice" ValueType="8" MetaData="1:1,1:2,2:2,1:4,2:4,3:4,4:4,1:3,2:3,3:3,12:4,23:4,34:4,14:4,n4:4,n34,n2:4,n1:4,12:3,13:3,23:3">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1606884747" Module="402242768" PatchCount="1" Index="174" Name="VCA Volume">
+        <patch-list>10</patch-list>
+      </Parameter>
+      <Parameter Handle="1923930351" Module="1593130416" PatchCount="1" Index="175" Name="VCA Volume">
+        <patch-list>9.92694</patch-list>
+      </Parameter>
+      <Parameter Handle="1983995599" Module="824873950" PatchCount="1" Index="176" Name="VCA Volume">
+        <patch-list>9.99855</patch-list>
+      </Parameter>
+      <Parameter Handle="222018866" Module="7995293" PatchCount="1" Index="177" Name="Vol">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="863978270" Module="1441235444" PatchCount="1" Index="178" Name="Vol">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="1451100703" Module="13327" PatchCount="1" Index="179" Name="Vol">
+        <patch-list>0</patch-list>
+      </Parameter>
+      <Parameter Handle="631939842" Module="1407653462" PatchCount="1" Index="180" Name="Wave 1 In File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Kick_CR78_12.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="514143765" Module="437973768" PatchCount="1" Index="181" Name="Wave 4 File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Kick_CR78_12.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="252965376" Module="1221553253" PatchCount="1" Index="182" Name="Wave Player File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\OH_CR78_05.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="316863190" Module="1133078021" PatchCount="1" Index="183" Name="Wave Player File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Perc_CR78_17.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="568678126" Module="700842022" PatchCount="1" Index="184" Name="Wave Player File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Conga_CR78_07.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="841808223" Module="284973290" PatchCount="1" Index="185" Name="Wave Player File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Snare_CR78_13.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="1793502220" Module="1700084331" PatchCount="1" Index="186" Name="Wave Player File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Conga_CR78_07.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="2058630427" Module="64603942" PatchCount="1" Index="187" Name="Wave Player File Name" ValueType="1" MetaData="wav">
+        <patch-list>&apos;C:\Program Files\Image-Line\FL Studio 20\Data\Patches\Packs\Drums\Drum Machines\cr78\One Shots\Kits\Kit 1\Snare_CR78_14.wav&apos;</patch-list>
+      </Parameter>
+      <Parameter Handle="191372649" Module="1773679940" PatchCount="1" Index="188" Name="Wave Player Pitch Shift">
+        <patch-list>5.27176</patch-list>
+      </Parameter>
+      <Parameter Handle="1955966004" Module="1780676377" PatchCount="1" Index="189" Name="Wave Player Pitch Shift">
+        <patch-list>5.2871</patch-list>
+      </Parameter>
+    </Parameters>
+  </PatchManager>
+  <ChildControllers />
+</Controller>

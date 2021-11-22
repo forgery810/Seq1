@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Factory>
+  <Vendor Email="no-one@nobody.com" Url="http://www.steinberg.com" Name="Tyson Schwertner" />
+  <Plugins>
+    <Plugin subCategories="Instrument|Synth" macCategory="aumu" ProcessorId="{4A6D8358-DB82-4B06-AB6D-592C3AA67AD8}" ControllerId="{E9596BD9-70E3-4848-A0A9-AF948672BA4F}" Name="Seq1" ManufacturerId="Synt" PluginID="1986938224" Version="1.0.0.0" latencyCompensation="1" outputsAsStereoPairs="1" outputNames="Left,Right" outputCount="2" />
+  </Plugins>
+</Factory>

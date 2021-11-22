@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<Document>
+  <PluginList>
+    <Plugin id="Image3" name="Image2" imbeddedFilename="SubControlsXp.sem">
+      <GUI graphicsApi="GmpiGui">
+        <Pin name="Animation Position" datatype="float" />
+        <Pin name="Filename" datatype="string" default="knob_sm" isFilename="true" metadata="bmp" />
+        <Pin name="Hint" datatype="string" />
+        <Pin name="Menu Items" datatype="string" />
+        <Pin name="Menu Selection" datatype="int" />
+        <Pin name="Mouse Down" datatype="bool" direction="out" private="true" />
+        <Pin name="Mouse Down" datatype="bool" />
+        <Pin name="Frame Count" datatype="int" private="true" />
+        <Pin name="Frame Count" datatype="int" direction="out" />
+        <Pin name="Mouse Response" datatype="enum" default="-1" isMinimised="true" metadata="off=-2, auto=-1, vertical=0, horizontal=1, clicks=2, rotary=3, step=4" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE BPM Clock4" name="BPM Clock4" imbeddedFilename="BpmClock3.sem">
+      <Audio>
+        <Pin name="Host BPM" datatype="float" private="true" hostConnect="Time/BPM" />
+        <Pin name="Host SP" datatype="float" private="true" hostConnect="Time/SongPosition" />
+        <Pin name="Host Transport" datatype="bool" private="true" hostConnect="Time/TransportPlaying" />
+        <Pin name="Numerator" datatype="int" private="true" hostConnect="Time/Timesignature/Numerator" />
+        <Pin name="Denominator" datatype="int" private="true" hostConnect="Time/Timesignature/Denominator" />
+        <Pin name="Host Bar Start" datatype="float" private="true" hostConnect="Time/BarStartPosition" />
+        <Pin name="Rate" datatype="enum" default="4" metadata="32=49152,16=24576,8=12288,4=6144,2=3072,1=1536,1 d=2304,1 t=1024,1/2=768,1/2 d=1152,1/2 t=512,1/4=384,1/4 d=576,1/4 t=256,1/8=192,1/8 d=288,1/8 t=128,1/16=96,1/16 d=144,1/16 t=64,1/32=48,1/32 d=72,1/32 t=32,1/64=24,1/64 d=36,1/64 t=16,1/128=12,1/128 d=18,1/128 t=8,1/256=6,1/256 d=9,1/256 t=4" />
+        <Pin name="Swing" datatype="float" default="5" />
+        <Pin name="Pulse Width" datatype="float" default="5" />
+        <Pin name="Pulse Out" datatype="float" rate="audio" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE BPM Tempo" name="BPM Tempo" imbeddedFilename="BpmClock3.sem">
+      <Audio>
+        <Pin name="Host BPM" datatype="float" private="true" hostConnect="Time/BPM" />
+        <Pin name="Host Transport" datatype="bool" private="true" hostConnect="Time/TransportPlaying" />
+        <Pin name="Tempo Out" datatype="float" rate="audio" direction="out" />
+        <Pin name="Transport Run" datatype="float" rate="audio" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE BoolToFloat" name="Bool To Float" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Bool Val" datatype="bool" />
+        <Pin name="Float Val" datatype="float" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE BoolToFloat GUI" name="Bool To Float" imbeddedFilename="Converters.sem">
+      <GUI>
+        <Pin name="Bool Val" datatype="bool" />
+        <Pin name="Float Val" datatype="float" direction="out" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE BoolToInt" name="Bool To Int" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Bool Val" datatype="bool" />
+        <Pin name="Int Val" datatype="int" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE BoolToText" name="Bool To Text" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Bool Val" datatype="bool" />
+        <Pin name="Text Val" datatype="string" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE BoolToVolts" name="Bool to Volts" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="In" datatype="bool" />
+        <Pin name="Out" datatype="float" rate="audio" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE FileDialog" name="File Dialog" imbeddedFilename="SubControls.sem">
+      <GUI>
+        <Pin name="File Name" datatype="string" />
+        <Pin name="File Extension" datatype="string" />
+        <Pin name="Trigger" datatype="bool" direction="out" />
+        <Pin name="Save Mode" datatype="bool" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE FloatToBool" name="Float To Bool" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Float Val" datatype="float" />
+        <Pin name="Bool Val" datatype="bool" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE FloatToInt" name="Float To Int" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Float Val" datatype="float" />
+        <Pin name="Int Val" datatype="int" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE FloatToText" name="Float To Text" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Float Val" datatype="float" />
+        <Pin name="Text Val" datatype="string" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE IntToBool" name="Int to Bool" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Int Val" datatype="int" />
+        <Pin name="Bool Val" datatype="bool" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE IntToFloat" name="Int To Float" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Int Val" datatype="int" />
+        <Pin name="Float Val" datatype="float" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE IntToText" name="Int To Text" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Int Val" datatype="int" />
+        <Pin name="Text Val" datatype="string" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE IntToVolts" name="Int to Volts" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="In" datatype="int" />
+        <Pin name="Out" datatype="float" rate="audio" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE List Entry" name="List Entry" imbeddedFilename="ControlsXp.sem">
+      <Parameters>
+        <Parameter id="0" datatype="enum" name="s1" />
+      </Parameters>
+      <Audio>
+        <Pin name="Value In" datatype="int" private="true" parameterId="0" />
+        <Pin name="Value Out" datatype="enum" direction="out" autoConfigureParameter="true" />
+      </Audio>
+      <GUI graphicsApi="GmpiGui">
+        <Pin id="10" name="Value In" datatype="int" private="true" parameterId="0" />
+        <Pin name="Hint" datatype="string" private="true" />
+        <Pin name="EnumList" datatype="string" private="true" parameterId="0" parameterField="7" />
+        <Pin name="Appearance" datatype="enum" isMinimised="true" metadata="Dropdown, LED Stack, LED Stack (labelled), Selector, Button Stack, Rot Switch=5,Rot Switch (no labels), Up/Down Select" />
+        <Pin name="Title" datatype="string" isMinimised="true" />
+        <Pin name="Menu Items" datatype="string" private="true" parameterId="0" parameterField="3" />
+        <Pin name="Menu Selection" datatype="int" private="true" parameterId="0" parameterField="4" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE List Entry4" name="List Entry4" imbeddedFilename="SubControlsXp.sem">
+      <GUI graphicsApi="GmpiGui">
+        <Pin name="Choice" datatype="int" />
+        <Pin name="Item List" datatype="string" />
+        <Pin name="Style" datatype="string" default="normal" />
+        <Pin name="Writeable" datatype="bool" default="1" />
+        <Pin name="Greyed" datatype="bool" />
+        <Pin name="Hint" datatype="string" />
+        <Pin name="Menu Items" datatype="string" />
+        <Pin name="Menu Selection" datatype="int" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE ListToInt" name="List To Int" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="List Val" datatype="enum" />
+        <Pin name="Int Val" datatype="int" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE PatchMemory Float" name="PatchMemory Float3" imbeddedFilename="PatchMemory.sem">
+      <Parameters>
+        <Parameter id="0" datatype="float" name="" />
+      </Parameters>
+      <Audio>
+        <Pin name="Value In" datatype="float" private="true" parameterId="0" />
+        <Pin name="Value Out" datatype="float" direction="out" autoConfigureParameter="true" />
+      </Audio>
+      <GUI>
+        <Pin name="Value In" datatype="float" private="true" parameterId="0" />
+        <Pin name="Name In" datatype="string" private="true" parameterId="0" parameterField="1" />
+        <Pin name="Menu Items" datatype="string" private="true" parameterId="0" parameterField="3" />
+        <Pin name="Menu Selection" datatype="int" private="true" parameterId="0" parameterField="4" />
+        <Pin name="Mouse Down" datatype="bool" private="true" parameterId="0" parameterField="14" />
+        <Pin name="AnimationIn" datatype="float" private="true" parameterId="0" parameterField="15" />
+        <Pin name="Name" datatype="string" direction="out" />
+        <Pin name="Value" datatype="float" direction="out" />
+        <Pin name="Animation Position" datatype="float" direction="out" />
+        <Pin name="Menu Items" datatype="string" direction="out" />
+        <Pin name="Menu Selection" datatype="int" direction="out" />
+        <Pin name="Mouse Down" datatype="bool" direction="out" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE PatchMemory Float Out" name="PatchMemory Float Out3" imbeddedFilename="PatchMemory.sem">
+      <Parameters>
+        <Parameter id="0" datatype="float" name="" ignorePatchChange="true" persistant="false" />
+      </Parameters>
+      <Audio>
+        <Pin name="Value In" datatype="float" />
+        <Pin name="PM Value Out" datatype="float" direction="out" private="true" autoConfigureParameter="true" parameterId="0" />
+      </Audio>
+      <GUI>
+        <Pin name="PM Value In" datatype="float" private="true" parameterId="0" />
+        <Pin name="PM Name In" datatype="string" private="true" parameterId="0" parameterField="1" />
+        <Pin name="PM Menu Items" datatype="string" private="true" parameterId="0" parameterField="3" />
+        <Pin name="PM Menu Selection" datatype="int" private="true" parameterId="0" parameterField="4" />
+        <Pin name="AnimationIn" datatype="float" private="true" parameterId="0" parameterField="15" />
+        <Pin name="Name" datatype="string" direction="out" />
+        <Pin name="Value" datatype="float" direction="out" />
+        <Pin name="Value Out" datatype="float" isMinimised="true" />
+        <Pin name="Animation Position" datatype="float" direction="out" />
+        <Pin name="Menu Items" datatype="string" direction="out" />
+        <Pin name="Menu Selection" datatype="int" direction="out" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE PatchMemory List3" name="PatchMemory List3" imbeddedFilename="PatchMemory.sem">
+      <Parameters>
+        <Parameter id="0" datatype="enum" name="" />
+      </Parameters>
+      <Audio>
+        <Pin name="Value In" datatype="int" private="true" parameterId="0" />
+        <Pin name="Value Out" datatype="enum" direction="out" autoConfigureParameter="true" />
+      </Audio>
+      <GUI>
+        <Pin name="Value In" datatype="int" private="true" parameterId="0" />
+        <Pin name="Name In" datatype="string" private="true" parameterId="0" parameterField="1" />
+        <Pin name="List Values" datatype="string" private="true" parameterId="0" parameterField="7" />
+        <Pin name="Menu Items" datatype="string" private="true" parameterId="0" parameterField="3" />
+        <Pin name="Menu Selection" datatype="int" private="true" parameterId="0" parameterField="4" />
+        <Pin name="Mouse Down" datatype="bool" private="true" parameterId="0" parameterField="14" />
+        <Pin name="Name" datatype="string" direction="out" />
+        <Pin name="Choice" datatype="int" direction="out" />
+        <Pin name="Item List" datatype="string" direction="out" />
+        <Pin name="Menu Items" datatype="string" direction="out" />
+        <Pin name="Menu Selection" datatype="int" direction="out" />
+        <Pin name="Mouse Down" datatype="bool" direction="out" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE PatchMemory Text2" name="PatchMemory Text2" imbeddedFilename="PatchMemory.sem">
+      <Parameters>
+        <Parameter id="0" datatype="string" name="" />
+      </Parameters>
+      <Audio>
+        <Pin name="Value In" datatype="string" private="true" parameterId="0" />
+        <Pin name="Value Out" datatype="string" direction="out" autoConfigureParameter="true" />
+      </Audio>
+      <GUI>
+        <Pin name="Value In" datatype="string" private="true" parameterId="0" />
+        <Pin name="Name In" datatype="string" private="true" parameterId="0" parameterField="1" />
+        <Pin name="File Extension" datatype="string" private="true" parameterId="0" parameterField="8" />
+        <Pin name="Menu Items" datatype="string" private="true" parameterId="0" parameterField="3" />
+        <Pin name="Menu Selection" datatype="int" private="true" parameterId="0" parameterField="4" />
+        <Pin name="Name" datatype="string" direction="out" />
+        <Pin name="Value" datatype="string" direction="out" />
+        <Pin name="File Extension" datatype="string" direction="out" />
+        <Pin name="Menu Items" datatype="string" direction="out" />
+        <Pin name="Menu Selection" datatype="int" direction="out" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE Plain Image" name="Plain Image" imbeddedFilename="SubControlsXp.sem">
+      <GUI graphicsApi="GmpiGui">
+        <Pin name="Filename" datatype="string" default="background" isFilename="true" metadata="bmp" />
+        <Pin name="Display" datatype="enum" isMinimised="true" metadata="Fixed Size, Tiled, Stretch" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE Scope3 XP" name="Scope3" imbeddedFilename="ControlsXp.sem">
+      <Parameters>
+        <Parameter id="0" datatype="blob" name="Capture Data A" private="true" ignorePatchChange="true" isPolyphonic="true" persistant="false" />
+        <Parameter id="1" datatype="blob" name="Capture Data B" private="true" ignorePatchChange="true" isPolyphonic="true" persistant="false" />
+        <Parameter id="2" datatype="bool" name="polyDetect" private="true" ignorePatchChange="true" persistant="false" />
+      </Parameters>
+      <Audio>
+        <Pin name="Capture Data A" datatype="blob" direction="out" private="true" isPolyphonic="true" parameterId="0" />
+        <Pin name="Capture Data B" datatype="blob" direction="out" private="true" isPolyphonic="true" parameterId="1" />
+        <Pin name="Signal A" datatype="float" rate="audio" />
+        <Pin name="Signal B" datatype="float" rate="audio" />
+        <Pin name="VoiceActive" datatype="float" private="true" isPolyphonic="true" hostConnect="Voice/Active" />
+        <Pin name="polydetect" datatype="bool" direction="out" private="true" parameterId="2" />
+      </Audio>
+      <GUI graphicsApi="GmpiGui">
+        <Pin name="Capture Data A" datatype="blob" private="true" isPolyphonic="true" parameterId="0" />
+        <Pin name="Capture Data B" datatype="blob" private="true" isPolyphonic="true" parameterId="1" />
+        <Pin id="3" name="VoiceGate" datatype="float" private="true" isPolyphonic="true" hostConnect="Voice/Gate" />
+        <Pin name="polydetect" datatype="bool" private="true" parameterId="2" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE Slider" name="Slider" imbeddedFilename="ControlsXp.sem">
+      <Parameters>
+        <Parameter id="0" datatype="float" name="s1" />
+      </Parameters>
+      <Audio>
+        <Pin name="S0" datatype="float" private="true" parameterId="0" />
+        <Pin id="6" name="Signal Out" datatype="float" rate="audio" direction="out" autoConfigureParameter="true" />
+      </Audio>
+      <GUI graphicsApi="GmpiGui">
+        <Pin id="13" name="Value In" datatype="float" private="true" parameterId="0" />
+        <Pin name="Hint" datatype="string" private="true" />
+        <Pin name="Appearance" datatype="enum" isMinimised="true" metadata="Slider,H-Slider=2,Knob,Button, Button (toggle), Knob (small)=7, Button(small), Button (small toggle)" />
+        <Pin name="Title" datatype="string" isMinimised="true" />
+        <Pin name="Normalized" datatype="float" private="true" parameterId="0" parameterField="15" />
+        <Pin name="Menu Items" datatype="string" private="true" parameterId="0" parameterField="3" />
+        <Pin name="Menu Selection" datatype="int" private="true" parameterId="0" parameterField="4" />
+        <Pin name="Mouse Down" datatype="bool" private="true" parameterId="0" parameterField="14" />
+        <Pin name="RangeLo" datatype="float" private="true" parameterId="0" parameterField="5" />
+        <Pin name="RangeHi" datatype="float" private="true" parameterId="0" parameterField="6" />
+        <Pin name="Show Readout" datatype="bool" default="1" isMinimised="true" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE Switch &lt; (Int)" name="Switch &lt; (Int)" imbeddedFilename="Switches.sem">
+      <Audio>
+        <Pin name="Choice" datatype="enum" metadata="{AUTO}" />
+        <Pin name="Input" datatype="int" />
+        <Pin name="Spare Output" datatype="int" direction="out" autoRename="true" autoDuplicate="true" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE Switch &gt; (Int)" name="Switch &gt; (Int)" imbeddedFilename="Switches.sem">
+      <Audio>
+        <Pin name="Choice" datatype="enum" metadata="{AUTO}" />
+        <Pin name="Output" datatype="int" direction="out" />
+        <Pin name="Spare Input" datatype="int" autoRename="true" linearInput="true" autoDuplicate="true" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE Text Entry4" name="Text Entry4" imbeddedFilename="SubControlsXp.sem">
+      <GUI graphicsApi="GmpiGui">
+        <Pin name="Text" datatype="string" />
+        <Pin name="Style" datatype="string" default="normal" />
+        <Pin name="Multiline" datatype="bool" />
+        <Pin name="Writeable" datatype="bool" default="1" />
+        <Pin name="Greyed" datatype="bool" />
+        <Pin name="Hint" datatype="string" />
+        <Pin name="Menu Items" datatype="string" />
+        <Pin name="Menu Selection" datatype="int" />
+        <Pin name="Mouse Down" datatype="bool" direction="out" private="true" />
+        <Pin name="Mouse Down" datatype="bool" />
+      </GUI>
+    </Plugin>
+    <Plugin id="SE TextToBool" name="Text To Bool" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Text Val" datatype="string" />
+        <Pin name="Bool Val" datatype="bool" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE TextToFloat" name="Text To Float" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Text Val" datatype="string" />
+        <Pin name="Float Val" datatype="float" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE TextToInt" name="Text To Int" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="Text Val" datatype="string" />
+        <Pin name="Int Val" datatype="int" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE VoltsToBool" name="Volts to Bool" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="In" datatype="float" rate="audio" />
+        <Pin name="Out" datatype="bool" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SE VoltsToInt" name="Volts to Int" imbeddedFilename="Converters.sem">
+      <Audio>
+        <Pin name="In" datatype="float" rate="audio" />
+        <Pin name="Out" datatype="int" direction="out" />
+      </Audio>
+    </Plugin>
+    <Plugin id="SynthEdit ADSR" name="ADSR2" imbeddedFilename="EnveloperAdsr.sem">
+      <Audio>
+        <Pin name="Trigger" datatype="float" rate="audio" default="0.1" />
+        <Pin name="Gate" datatype="float" rate="audio" default="0.1" />
+        <Pin name="Attack" datatype="float" rate="audio" />
+        <Pin name="Decay" datatype="float" rate="audio" default="0.5" />
+        <Pin name="Sustain" datatype="float" rate="audio" default="0.7" />
+        <Pin name="Release" datatype="float" rate="audio" default="0.4" />
+        <Pin name="Overall Level" datatype="float" rate="audio" default="1" />
+        <Pin name="Signal Out" datatype="float" rate="audio" direction="out" />
+        <Pin name="VoiceReset" datatype="float" private="true" isPolyphonic="true" hostConnect="Voice/Active" />
+      </Audio>
+    </Plugin>
+  </PluginList>
+</Document>

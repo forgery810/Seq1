@@ -1,0 +1,10475 @@
+
+{
+	"gui" : 
+	{
+		"connections" : [],
+		"handle" : 15409,
+		"height" : 355,
+		"modules" : 
+		[
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Documents\\seqone.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 2045894608,
+				"pb" : 340,
+				"pl" : 683,
+				"pr" : 827,
+				"pt" : 303,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1091629024,
+				"pb" : 136,
+				"pl" : 293,
+				"pr" : 294,
+				"pt" : 100,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Documents\\designedby.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 500654458,
+				"pb" : 336,
+				"pl" : 738,
+				"pr" : 865,
+				"pt" : 307,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 567867158,
+				"pb" : 312,
+				"pl" : 525,
+				"pr" : 526,
+				"pt" : 276,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 2018473751,
+				"pb" : 277,
+				"pl" : 362,
+				"pr" : 525,
+				"pt" : 276,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 854990532,
+				"pb" : 313,
+				"pl" : 363,
+				"pr" : 526,
+				"pt" : 312,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1991928143,
+				"pb" : 313,
+				"pl" : 362,
+				"pr" : 363,
+				"pt" : 276,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 336271523,
+				"pb" : 268,
+				"pl" : 697,
+				"pr" : 698,
+				"pt" : 189,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 407520586,
+				"pb" : 178,
+				"pl" : 697,
+				"pr" : 698,
+				"pt" : 99,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 858972366,
+				"pb" : 268,
+				"pl" : 534,
+				"pr" : 535,
+				"pt" : 189,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 473040725,
+				"pb" : 189,
+				"pl" : 534,
+				"pr" : 698,
+				"pt" : 188,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1874714514,
+				"pb" : 179,
+				"pl" : 534,
+				"pr" : 535,
+				"pt" : 99,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1373631945,
+				"pb" : 268,
+				"pl" : 535,
+				"pr" : 698,
+				"pt" : 267,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 588250023,
+				"pb" : 179,
+				"pl" : 535,
+				"pr" : 698,
+				"pt" : 178,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1218102152,
+				"pb" : 100,
+				"pl" : 535,
+				"pr" : 698,
+				"pt" : 99,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 32281085,
+				"pb" : 268,
+				"pl" : 362,
+				"pr" : 363,
+				"pt" : 188,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 177152649,
+				"pb" : 268,
+				"pl" : 363,
+				"pr" : 525,
+				"pt" : 267,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1538314877,
+				"pb" : 189,
+				"pl" : 363,
+				"pr" : 526,
+				"pt" : 188,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1285631417,
+				"pb" : 179,
+				"pl" : 525,
+				"pr" : 526,
+				"pt" : 99,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 586625884,
+				"pb" : 313,
+				"pl" : 353,
+				"pr" : 354,
+				"pt" : 171,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1379808174,
+				"pb" : 313,
+				"pl" : 16,
+				"pr" : 17,
+				"pt" : 170,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 544241275,
+				"pb" : 313,
+				"pl" : 17,
+				"pr" : 353,
+				"pt" : 312,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1775838541,
+				"pb" : 171,
+				"pl" : 17,
+				"pr" : 354,
+				"pt" : 170,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1334568478,
+				"pb" : 92,
+				"pl" : 697,
+				"pr" : 698,
+				"pt" : 14,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1240683274,
+				"pb" : 14,
+				"pl" : 534,
+				"pr" : 698,
+				"pt" : 13,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 858094517,
+				"pb" : 92,
+				"pl" : 534,
+				"pr" : 535,
+				"pt" : 14,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 2145855365,
+				"pb" : 92,
+				"pl" : 534,
+				"pr" : 698,
+				"pt" : 91,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 567315646,
+				"pb" : 92,
+				"pl" : 525,
+				"pr" : 526,
+				"pt" : 14,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 251535573,
+				"pb" : 92,
+				"pl" : 362,
+				"pr" : 526,
+				"pt" : 91,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1630871929,
+				"pb" : 92,
+				"pl" : 362,
+				"pr" : 363,
+				"pt" : 14,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 329766594,
+				"pb" : 14,
+				"pl" : 362,
+				"pr" : 526,
+				"pt" : 13,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1665114367,
+				"pb" : 268,
+				"pl" : 525,
+				"pr" : 526,
+				"pt" : 188,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 823092962,
+				"pb" : 100,
+				"pl" : 362,
+				"pr" : 525,
+				"pt" : 99,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 731894553,
+				"pb" : 179,
+				"pl" : 362,
+				"pr" : 363,
+				"pt" : 99,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 416455544,
+				"pb" : 179,
+				"pl" : 362,
+				"pr" : 525,
+				"pt" : 178,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 2,
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 1030547291,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 924918742,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1653914139,
+										"fPin" : 7,
+										"tMod" : 1747525669
+									},
+									
+									{
+										"fMod" : 1653914139,
+										"fPin" : 8,
+										"tMod" : 1747525669,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1546113657,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1653914139,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											},
+											
+											{
+												"Id" : 4,
+												"default" : "0"
+											}
+										],
+										"handle" : 1747525669,
+										"pb" : 147,
+										"pl" : 273,
+										"pr" : 327,
+										"pt" : 126,
+										"type" : "SE List Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+											},
+											
+											{
+												"default" : "2"
+											}
+										],
+										"handle" : 475318825,
+										"pb" : 146,
+										"pl" : 274,
+										"pr" : 311,
+										"pt" : 127,
+										"type" : "SE Plain Image"
+									}
+								],
+								"pb" : 146,
+								"pl" : 92,
+								"pr" : 146,
+								"pt" : 125,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1835654413,
+										"fPin" : 8,
+										"tMod" : 1164379807
+									}
+								],
+								"handle" : 2046162636,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1835654413,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+											}
+										],
+										"handle" : 1164379807,
+										"pb" : 42,
+										"pl" : 46,
+										"pr" : 64,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 143,
+								"pl" : 169,
+								"pr" : 187,
+								"pt" : 125,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 2125370977,
+										"fPin" : 8,
+										"tMod" : 2090049090
+									}
+								],
+								"handle" : 444117293,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 2125370977,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+											}
+										],
+										"handle" : 2090049090,
+										"pb" : 42,
+										"pl" : 46,
+										"pr" : 64,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 143,
+								"pl" : 43,
+								"pr" : 61,
+								"pt" : 125,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Lvl"
+									}
+								],
+								"handle" : 862099029,
+								"pb" : 114,
+								"pl" : 168,
+								"pr" : 191,
+								"pt" : 82,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Rel"
+									}
+								],
+								"handle" : 996639613,
+								"pb" : 114,
+								"pl" : 135,
+								"pr" : 159,
+								"pt" : 82,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Sus"
+									}
+								],
+								"handle" : 227621615,
+								"pb" : 114,
+								"pl" : 101,
+								"pr" : 129,
+								"pt" : 82,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Dec"
+									}
+								],
+								"handle" : 915168812,
+								"pb" : 114,
+								"pl" : 69,
+								"pr" : 97,
+								"pt" : 82,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Att"
+									}
+								],
+								"handle" : 447346507,
+								"pb" : 114,
+								"pl" : 40,
+								"pr" : 62,
+								"pt" : 82,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 2115896464,
+								"pb" : 152,
+								"pl" : 33,
+								"pr" : 196,
+								"pt" : 74,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 155,
+						"pl" : 290,
+						"pr" : 454,
+						"pt" : 74,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1202167817,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1529052828,
+										"fPin" : 7,
+										"tMod" : 1185015920
+									},
+									
+									{
+										"fMod" : 1529052828,
+										"fPin" : 8,
+										"tMod" : 1185015920,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1691710014,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1529052828,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											},
+											
+											{
+												"Id" : 4,
+												"default" : "0"
+											}
+										],
+										"handle" : 1185015920,
+										"pb" : 147,
+										"pl" : 273,
+										"pr" : 327,
+										"pt" : 126,
+										"type" : "SE List Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+											},
+											
+											{
+												"default" : "2"
+											}
+										],
+										"handle" : 50722196,
+										"pb" : 146,
+										"pl" : 274,
+										"pr" : 311,
+										"pt" : 127,
+										"type" : "SE Plain Image"
+									}
+								],
+								"pb" : 136,
+								"pl" : 92,
+								"pr" : 146,
+								"pt" : 115,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1115383156,
+										"fPin" : 8,
+										"tMod" : 1253074098
+									}
+								],
+								"handle" : 1979856146,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1115383156,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+											}
+										],
+										"handle" : 1253074098,
+										"pb" : 42,
+										"pl" : 46,
+										"pr" : 64,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 133,
+								"pl" : 169,
+								"pr" : 187,
+								"pt" : 115,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1652550391,
+										"fPin" : 8,
+										"tMod" : 435438980
+									}
+								],
+								"handle" : 981983369,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1652550391,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+											}
+										],
+										"handle" : 435438980,
+										"pb" : 42,
+										"pl" : 46,
+										"pr" : 64,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 133,
+								"pl" : 43,
+								"pr" : 61,
+								"pt" : 115,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Lvl"
+									}
+								],
+								"handle" : 118714515,
+								"pb" : 104,
+								"pl" : 168,
+								"pr" : 191,
+								"pt" : 72,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Rel"
+									}
+								],
+								"handle" : 472376791,
+								"pb" : 104,
+								"pl" : 135,
+								"pr" : 159,
+								"pt" : 72,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Sus"
+									}
+								],
+								"handle" : 1674318316,
+								"pb" : 104,
+								"pl" : 101,
+								"pr" : 129,
+								"pt" : 72,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Dec"
+									}
+								],
+								"handle" : 2138798671,
+								"pb" : 104,
+								"pl" : 69,
+								"pr" : 97,
+								"pt" : 72,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Att"
+									}
+								],
+								"handle" : 627326101,
+								"pb" : 104,
+								"pl" : 40,
+								"pr" : 62,
+								"pt" : 72,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 1683465282,
+								"pb" : 144,
+								"pl" : 34,
+								"pr" : 197,
+								"pt" : 65,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 240,
+						"pl" : 289,
+						"pr" : 452,
+						"pt" : 161,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1426041116,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 955094017,
+										"fPin" : 7,
+										"tMod" : 900280379
+									},
+									
+									{
+										"fMod" : 955094017,
+										"fPin" : 8,
+										"tMod" : 900280379,
+										"tPin" : 1
+									}
+								],
+								"handle" : 420285847,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 955094017,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											},
+											
+											{
+												"Id" : 4,
+												"default" : "0"
+											}
+										],
+										"handle" : 900280379,
+										"pb" : 147,
+										"pl" : 273,
+										"pr" : 327,
+										"pt" : 126,
+										"type" : "SE List Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+											},
+											
+											{
+												"default" : "2"
+											}
+										],
+										"handle" : 1675779339,
+										"pb" : 146,
+										"pl" : 274,
+										"pr" : 311,
+										"pt" : 127,
+										"type" : "SE Plain Image"
+									}
+								],
+								"pb" : 141,
+								"pl" : 92,
+								"pr" : 146,
+								"pt" : 120,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1563827207,
+										"fPin" : 8,
+										"tMod" : 964266835
+									}
+								],
+								"handle" : 2047118201,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1563827207,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+											}
+										],
+										"handle" : 964266835,
+										"pb" : 42,
+										"pl" : 46,
+										"pr" : 64,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 138,
+								"pl" : 169,
+								"pr" : 187,
+								"pt" : 120,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1175906598,
+										"fPin" : 8,
+										"tMod" : 894323552
+									}
+								],
+								"handle" : 2072131637,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1175906598,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+											}
+										],
+										"handle" : 894323552,
+										"pb" : 42,
+										"pl" : 46,
+										"pr" : 64,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 138,
+								"pl" : 43,
+								"pr" : 61,
+								"pt" : 120,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Lvl"
+									}
+								],
+								"handle" : 1945951127,
+								"pb" : 109,
+								"pl" : 168,
+								"pr" : 191,
+								"pt" : 77,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Rel"
+									}
+								],
+								"handle" : 610327663,
+								"pb" : 109,
+								"pl" : 135,
+								"pr" : 159,
+								"pt" : 77,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Sus"
+									}
+								],
+								"handle" : 1241007368,
+								"pb" : 109,
+								"pl" : 101,
+								"pr" : 129,
+								"pt" : 77,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Dec"
+									}
+								],
+								"handle" : 2073481207,
+								"pb" : 109,
+								"pl" : 69,
+								"pr" : 97,
+								"pt" : 77,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Att"
+									}
+								],
+								"handle" : 1370408988,
+								"pb" : 109,
+								"pl" : 40,
+								"pr" : 62,
+								"pt" : 77,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 944987885,
+								"pb" : 148,
+								"pl" : 34,
+								"pr" : 197,
+								"pt" : 68,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 332,
+						"pl" : 290,
+						"pr" : 453,
+						"pt" : 249,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 270837717,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 932196965,
+										"fPin" : 8,
+										"tMod" : 1361710171
+									}
+								],
+								"handle" : 1299320339,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 932196965,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\button_smaller.png"
+											}
+										],
+										"handle" : 1361710171,
+										"pb" : 44,
+										"pl" : 46,
+										"pr" : 66,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 299,
+								"pl" : 184,
+								"pr" : 204,
+								"pt" : 279,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1647414806,
+										"fPin" : 7,
+										"tMod" : 374401241
+									},
+									
+									{
+										"fMod" : 1647414806,
+										"fPin" : 8,
+										"tMod" : 374401241,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1913342294,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1647414806,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											},
+											
+											{
+												"Id" : 4,
+												"default" : "0"
+											}
+										],
+										"handle" : 374401241,
+										"pb" : 147,
+										"pl" : 277,
+										"pr" : 333,
+										"pt" : 124,
+										"type" : "SE List Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+											},
+											
+											{
+												"default" : "2"
+											}
+										],
+										"handle" : 505798076,
+										"pb" : 144,
+										"pl" : 276,
+										"pr" : 317,
+										"pt" : 126,
+										"type" : "SE Plain Image"
+									}
+								],
+								"pb" : 300,
+								"pl" : 136,
+								"pr" : 193,
+								"pt" : 277,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Phase"
+									}
+								],
+								"handle" : 996141423,
+								"pb" : 304,
+								"pl" : 93,
+								"pr" : 136,
+								"pt" : 272,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Level"
+									}
+								],
+								"handle" : 824873950,
+								"pb" : 268,
+								"pl" : 94,
+								"pr" : 132,
+								"pt" : 236,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 10,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 13,
+										"default" : "3"
+									},
+									
+									{
+										"Id" : 11,
+										"default" : ""
+									}
+								],
+								"handle" : 2077148173,
+								"pb" : 269,
+								"pl" : 131,
+								"pr" : 233,
+								"pt" : 233,
+								"type" : "SE List Entry"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Rate"
+									}
+								],
+								"handle" : 1337576868,
+								"pb" : 297,
+								"pl" : 53,
+								"pr" : 86,
+								"pt" : 241,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 177330238,
+								"pb" : 308,
+								"pl" : 50,
+								"pr" : 213,
+								"pt" : 230,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 328,
+						"pl" : 462,
+						"pr" : 645,
+						"pt" : 250,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 556298528,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 914409758,
+										"fPin" : 8,
+										"tMod" : 904594879
+									}
+								],
+								"handle" : 870950325,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 914409758,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\button_smaller.png"
+											}
+										],
+										"handle" : 904594879,
+										"pb" : 44,
+										"pl" : 46,
+										"pr" : 66,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 299,
+								"pl" : 184,
+								"pr" : 204,
+								"pt" : 279,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 442413949,
+										"fPin" : 7,
+										"tMod" : 1573685680
+									},
+									
+									{
+										"fMod" : 442413949,
+										"fPin" : 8,
+										"tMod" : 1573685680,
+										"tPin" : 1
+									}
+								],
+								"handle" : 584162054,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 442413949,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											},
+											
+											{
+												"Id" : 4,
+												"default" : "0"
+											}
+										],
+										"handle" : 1573685680,
+										"pb" : 147,
+										"pl" : 277,
+										"pr" : 333,
+										"pt" : 124,
+										"type" : "SE List Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+											},
+											
+											{
+												"default" : "2"
+											}
+										],
+										"handle" : 2117144720,
+										"pb" : 144,
+										"pl" : 276,
+										"pr" : 317,
+										"pt" : 126,
+										"type" : "SE Plain Image"
+									}
+								],
+								"pb" : 300,
+								"pl" : 136,
+								"pr" : 193,
+								"pt" : 277,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Phase"
+									}
+								],
+								"handle" : 608911666,
+								"pb" : 304,
+								"pl" : 93,
+								"pr" : 136,
+								"pt" : 272,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Level"
+									}
+								],
+								"handle" : 1593130416,
+								"pb" : 268,
+								"pl" : 94,
+								"pr" : 132,
+								"pt" : 236,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 10,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 13,
+										"default" : "3"
+									},
+									
+									{
+										"Id" : 11,
+										"default" : ""
+									}
+								],
+								"handle" : 1879161830,
+								"pb" : 269,
+								"pl" : 131,
+								"pr" : 233,
+								"pt" : 233,
+								"type" : "SE List Entry"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Rate"
+									}
+								],
+								"handle" : 538700486,
+								"pb" : 297,
+								"pl" : 53,
+								"pr" : 86,
+								"pt" : 241,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 1206755607,
+								"pb" : 308,
+								"pl" : 50,
+								"pr" : 213,
+								"pt" : 230,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 239,
+						"pl" : 462,
+						"pr" : 645,
+						"pt" : 161,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 971776444,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 384653346,
+										"fPin" : 8,
+										"tMod" : 177782298
+									}
+								],
+								"handle" : 558912123,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 384653346,
+										"type" : "SE PatchMemory Float Out"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\button_smaller.png"
+											}
+										],
+										"handle" : 177782298,
+										"pb" : 44,
+										"pl" : 46,
+										"pr" : 66,
+										"pt" : 24,
+										"type" : "Image3"
+									}
+								],
+								"pb" : 299,
+								"pl" : 185,
+								"pr" : 205,
+								"pt" : 279,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1171670826,
+										"fPin" : 7,
+										"tMod" : 1535441047
+									},
+									
+									{
+										"fMod" : 1171670826,
+										"fPin" : 8,
+										"tMod" : 1535441047,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1088537256,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1171670826,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											},
+											
+											{
+												"Id" : 4,
+												"default" : "0"
+											}
+										],
+										"handle" : 1535441047,
+										"pb" : 147,
+										"pl" : 277,
+										"pr" : 333,
+										"pt" : 124,
+										"type" : "SE List Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+											},
+											
+											{
+												"default" : "2"
+											}
+										],
+										"handle" : 2074912548,
+										"pb" : 144,
+										"pl" : 276,
+										"pr" : 317,
+										"pt" : 126,
+										"type" : "SE Plain Image"
+									}
+								],
+								"pb" : 300,
+								"pl" : 137,
+								"pr" : 194,
+								"pt" : 277,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Phase"
+									}
+								],
+								"handle" : 1261001601,
+								"pb" : 304,
+								"pl" : 94,
+								"pr" : 137,
+								"pt" : 272,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "7"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Level"
+									}
+								],
+								"handle" : 402242768,
+								"pb" : 268,
+								"pl" : 95,
+								"pr" : 133,
+								"pt" : 236,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 10,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 13,
+										"default" : "3"
+									},
+									
+									{
+										"Id" : 11,
+										"default" : ""
+									}
+								],
+								"handle" : 147008728,
+								"pb" : 269,
+								"pl" : 132,
+								"pr" : 234,
+								"pt" : 233,
+								"type" : "SE List Entry"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 16,
+										"default" : "Rate"
+									}
+								],
+								"handle" : 2115588746,
+								"pb" : 297,
+								"pl" : 54,
+								"pr" : 87,
+								"pt" : 241,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 302239966,
+								"pb" : 308,
+								"pl" : 51,
+								"pr" : 214,
+								"pt" : 230,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 153,
+						"pl" : 461,
+						"pr" : 644,
+						"pt" : 75,
+						"type" : "Container"
+					}
+				],
+				"pb" : 271,
+				"pl" : 362,
+				"pr" : 698,
+				"pt" : 13,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 2,
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 462007617,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 415324876,
+								"fPin" : 7,
+								"tMod" : 1135966994
+							},
+							
+							{
+								"fMod" : 415324876,
+								"fPin" : 8,
+								"tMod" : 1135966994,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1030916060,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 415324876,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1135966994,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 309,
+								"pt" : 119,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 152,
+						"pl" : 301,
+						"pr" : 340,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1131041571,
+								"fPin" : 7,
+								"tMod" : 458028116
+							},
+							
+							{
+								"fMod" : 1131041571,
+								"fPin" : 8,
+								"tMod" : 458028116,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1372975053,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1131041571,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 458028116,
+								"pb" : 164,
+								"pl" : 264,
+								"pr" : 309,
+								"pt" : 142,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 116,
+						"pl" : 330,
+						"pr" : 375,
+						"pt" : 94,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 34106305,
+								"fPin" : 7,
+								"tMod" : 1212701018
+							},
+							
+							{
+								"fMod" : 34106305,
+								"fPin" : 8,
+								"tMod" : 1212701018,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1431926310,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 34106305,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1212701018,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 268,
+						"pr" : 308,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1866793587,
+								"fPin" : 7,
+								"tMod" : 1118201835
+							},
+							
+							{
+								"fMod" : 1866793587,
+								"fPin" : 8,
+								"tMod" : 1118201835,
+								"tPin" : 1
+							}
+						],
+						"handle" : 392049920,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1866793587,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1118201835,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 237,
+						"pr" : 277,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1445025137,
+								"fPin" : 7,
+								"tMod" : 1666286125
+							},
+							
+							{
+								"fMod" : 1445025137,
+								"fPin" : 8,
+								"tMod" : 1666286125,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1886372988,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1445025137,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1666286125,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 205,
+						"pr" : 245,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1085592485,
+								"fPin" : 7,
+								"tMod" : 841870246
+							},
+							
+							{
+								"fMod" : 1085592485,
+								"fPin" : 8,
+								"tMod" : 841870246,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 1085592485,
+								"fPin" : 9,
+								"tMod" : 841870246,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1085592485,
+								"fPin" : 10,
+								"tMod" : 841870246,
+								"tPin" : 7
+							}
+						],
+						"handle" : 2013231930,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1085592485,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 841870246,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 313,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 172,
+						"pr" : 215,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1915742507,
+								"fPin" : 7,
+								"tMod" : 715719276
+							},
+							
+							{
+								"fMod" : 1915742507,
+								"fPin" : 8,
+								"tMod" : 715719276,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 1915742507,
+								"fPin" : 9,
+								"tMod" : 715719276,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1915742507,
+								"fPin" : 10,
+								"tMod" : 715719276,
+								"tPin" : 7
+							}
+						],
+						"handle" : 216997562,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1915742507,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 715719276,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 119,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 152,
+						"pl" : 109,
+						"pr" : 149,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1450360079,
+								"fPin" : 7,
+								"tMod" : 754903625
+							},
+							
+							{
+								"fMod" : 1450360079,
+								"fPin" : 8,
+								"tMod" : 754903625,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 1450360079,
+								"fPin" : 9,
+								"tMod" : 754903625,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1450360079,
+								"fPin" : 10,
+								"tMod" : 754903625,
+								"tPin" : 7
+							}
+						],
+						"handle" : 837651752,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1450360079,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 754903625,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 309,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 140,
+						"pr" : 179,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 205285310,
+								"fPin" : 7,
+								"tMod" : 1688949358
+							},
+							
+							{
+								"fMod" : 205285310,
+								"fPin" : 8,
+								"tMod" : 1688949358,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 205285310,
+								"fPin" : 9,
+								"tMod" : 1688949358,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 205285310,
+								"fPin" : 10,
+								"tMod" : 1688949358,
+								"tPin" : 7
+							}
+						],
+						"handle" : 1832747165,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 205285310,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1688949358,
+								"pb" : 143,
+								"pl" : 270,
+								"pr" : 309,
+								"pt" : 119,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 153,
+						"pl" : 77,
+						"pr" : 116,
+						"pt" : 129,
+						"type" : "Container"
+					}
+				],
+				"pb" : 292,
+				"pl" : 75,
+				"pr" : 373,
+				"pt" : 233,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "0"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 851467667,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 289273939,
+						"pb" : 171,
+						"pl" : 332,
+						"pr" : 357,
+						"pt" : 151,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1087516874,
+								"fPin" : 7,
+								"tMod" : 801519606
+							},
+							
+							{
+								"fMod" : 1087516874,
+								"fPin" : 8,
+								"tMod" : 801519606,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1451328038,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1087516874,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									},
+									
+									{
+										"Id" : 4,
+										"default" : "0"
+									}
+								],
+								"handle" : 801519606,
+								"pb" : 155,
+								"pl" : 264,
+								"pr" : 311,
+								"pt" : 133,
+								"type" : "SE List Entry4"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 894157291,
+								"pb" : 153,
+								"pl" : 266,
+								"pr" : 310,
+								"pt" : 133,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 173,
+						"pl" : 26,
+						"pr" : 72,
+						"pt" : 151,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 57053051,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 952911982,
+										"fPin" : 7,
+										"tMod" : 530806909
+									},
+									
+									{
+										"fMod" : 952911982,
+										"fPin" : 8,
+										"tMod" : 530806909,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1478766260,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 952911982,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 530806909,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 261,
+								"pl" : 135,
+								"pr" : 175,
+								"pt" : 239,
+								"type" : "Container"
+							}
+						],
+						"pb" : 188,
+						"pl" : 79,
+						"pr" : 119,
+						"pt" : 166,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1489288457,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 511169111,
+										"fPin" : 7,
+										"tMod" : 862055930
+									},
+									
+									{
+										"fMod" : 511169111,
+										"fPin" : 8,
+										"tMod" : 862055930,
+										"tPin" : 1
+									}
+								],
+								"handle" : 118412817,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 511169111,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 862055930,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 353,
+								"pl" : 187,
+								"pr" : 227,
+								"pt" : 331,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 303,
+						"pr" : 343,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 295148939,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1439486859,
+										"fPin" : 7,
+										"tMod" : 1166996396
+									},
+									
+									{
+										"fMod" : 1439486859,
+										"fPin" : 8,
+										"tMod" : 1166996396,
+										"tPin" : 1
+									}
+								],
+								"handle" : 782257094,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1439486859,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1166996396,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 297,
+								"pl" : 171,
+								"pr" : 211,
+								"pt" : 275,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 271,
+						"pr" : 311,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1994960262,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 535509018,
+										"fPin" : 7,
+										"tMod" : 1163907992
+									},
+									
+									{
+										"fMod" : 535509018,
+										"fPin" : 8,
+										"tMod" : 1163907992,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1509676555,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 535509018,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1163907992,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 321,
+								"pl" : 195,
+								"pr" : 235,
+								"pt" : 299,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 238,
+						"pr" : 278,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 314168127,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1328499599,
+										"fPin" : 7,
+										"tMod" : 259259508
+									},
+									
+									{
+										"fMod" : 1328499599,
+										"fPin" : 8,
+										"tMod" : 259259508,
+										"tPin" : 1
+									}
+								],
+								"handle" : 445929877,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1328499599,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 259259508,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 337,
+								"pl" : 227,
+								"pr" : 267,
+								"pt" : 315,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 206,
+						"pr" : 246,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 404655497,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1081378036,
+										"fPin" : 7,
+										"tMod" : 1182604290
+									},
+									
+									{
+										"fMod" : 1081378036,
+										"fPin" : 8,
+										"tMod" : 1182604290,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1870387655,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1081378036,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1182604290,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 305,
+								"pl" : 203,
+								"pr" : 243,
+								"pt" : 283,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 174,
+						"pr" : 214,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1843972128,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 294430433,
+										"fPin" : 7,
+										"tMod" : 302302538
+									},
+									
+									{
+										"fMod" : 294430433,
+										"fPin" : 8,
+										"tMod" : 302302538,
+										"tPin" : 1
+									}
+								],
+								"handle" : 567342678,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 294430433,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 302302538,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 337,
+								"pl" : 203,
+								"pr" : 243,
+								"pt" : 315,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 143,
+						"pr" : 183,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 240065575,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1595068989,
+										"fPin" : 7,
+										"tMod" : 1820217957
+									},
+									
+									{
+										"fMod" : 1595068989,
+										"fPin" : 8,
+										"tMod" : 1820217957,
+										"tPin" : 1
+									}
+								],
+								"handle" : 51271092,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1595068989,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1820217957,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 116,
+								"pl" : 171,
+								"pr" : 211,
+								"pt" : 94,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 111,
+						"pr" : 151,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 154751643,
+								"fPin" : 8,
+								"tMod" : 1600417051
+							}
+						],
+						"handle" : 1342469092,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 154751643,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1600417051,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 305,
+						"pr" : 323,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1762689649,
+								"fPin" : 8,
+								"tMod" : 79937091
+							}
+						],
+						"handle" : 287604126,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1762689649,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 79937091,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 272,
+						"pr" : 290,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1660300746,
+								"fPin" : 8,
+								"tMod" : 1980465338
+							}
+						],
+						"handle" : 1180433883,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1660300746,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1980465338,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 241,
+						"pr" : 259,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1060620053,
+								"fPin" : 8,
+								"tMod" : 262724028
+							}
+						],
+						"handle" : 1695292440,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1060620053,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 262724028,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 209,
+						"pr" : 227,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 656278647,
+								"fPin" : 8,
+								"tMod" : 1040767515
+							}
+						],
+						"handle" : 237539468,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 656278647,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1040767515,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 177,
+						"pr" : 195,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1806976877,
+								"fPin" : 8,
+								"tMod" : 1436112347
+							}
+						],
+						"handle" : 536784971,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1806976877,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1436112347,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 145,
+						"pr" : 163,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 812986119,
+								"fPin" : 8,
+								"tMod" : 638687581
+							}
+						],
+						"handle" : 1453025098,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 812986119,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 638687581,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 81,
+						"pr" : 99,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1983619697,
+								"fPin" : 8,
+								"tMod" : 1707537724
+							}
+						],
+						"handle" : 1646497024,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1983619697,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1707537724,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 113,
+						"pr" : 131,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1929523286,
+						"pb" : 166,
+						"pl" : 305,
+						"pr" : 323,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 43956430,
+						"pb" : 166,
+						"pl" : 273,
+						"pr" : 291,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1210383272,
+						"pb" : 166,
+						"pl" : 242,
+						"pr" : 260,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 485544977,
+						"pb" : 166,
+						"pl" : 210,
+						"pr" : 228,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1003523963,
+						"pb" : 166,
+						"pl" : 178,
+						"pr" : 196,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1286705682,
+						"pb" : 166,
+						"pl" : 146,
+						"pr" : 164,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 580160434,
+						"pb" : 166,
+						"pl" : 114,
+						"pr" : 132,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 561131765,
+						"pb" : 166,
+						"pl" : 82,
+						"pr" : 100,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 23189515,
+						"pb" : 214,
+						"pl" : 301,
+						"pr" : 327,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1287351774,
+						"pb" : 214,
+						"pl" : 268,
+						"pr" : 294,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 607021902,
+						"pb" : 214,
+						"pl" : 77,
+						"pr" : 103,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1132011527,
+						"pb" : 214,
+						"pl" : 205,
+						"pr" : 231,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 183136349,
+						"pb" : 214,
+						"pl" : 141,
+						"pr" : 167,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 278677067,
+						"pb" : 214,
+						"pl" : 109,
+						"pr" : 135,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 51700911,
+						"pb" : 214,
+						"pl" : 173,
+						"pr" : 199,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 159179387,
+						"pb" : 214,
+						"pl" : 237,
+						"pr" : 262,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1484970600,
+						"pb" : 229,
+						"pl" : 22,
+						"pr" : 358,
+						"pt" : 87,
+						"type" : "SE Plain Image"
+					}
+				],
+				"pb" : 312,
+				"pl" : 17,
+				"pr" : 353,
+				"pt" : 170,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "0"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 1535159744,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 998520725,
+								"fPin" : 8,
+								"tMod" : 298402174
+							}
+						],
+						"handle" : 1102839168,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 998520725,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 298402174,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 484,
+						"pl" : 650,
+						"pr" : 668,
+						"pt" : 466,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1168108361,
+								"fPin" : 8,
+								"tMod" : 1791825723
+							}
+						],
+						"handle" : 453821437,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1168108361,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1791825723,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 484,
+						"pl" : 626,
+						"pr" : 644,
+						"pt" : 466,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 406384812,
+								"fPin" : 8,
+								"tMod" : 1333849746
+							}
+						],
+						"handle" : 1429600231,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 406384812,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1333849746,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 484,
+						"pl" : 572,
+						"pr" : 590,
+						"pt" : 466,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 485483830,
+								"fPin" : 8,
+								"tMod" : 1315121907
+							}
+						],
+						"handle" : 815949933,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 485483830,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1315121907,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 484,
+						"pl" : 550,
+						"pr" : 568,
+						"pt" : 466,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1341761516,
+								"fPin" : 7,
+								"tMod" : 379466549
+							},
+							
+							{
+								"fMod" : 1341761516,
+								"fPin" : 8,
+								"tMod" : 379466549,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1743851239,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1341761516,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 379466549,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 1944719718,
+								"pb" : 139,
+								"pl" : 271,
+								"pr" : 298,
+								"pt" : 122,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 487,
+						"pl" : 672,
+						"pr" : 712,
+						"pt" : 465,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 89249102,
+								"fPin" : 7,
+								"tMod" : 1416546499
+							},
+							
+							{
+								"fMod" : 89249102,
+								"fPin" : 8,
+								"tMod" : 1416546499,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1748498603,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 89249102,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1416546499,
+								"pb" : 103,
+								"pl" : 275,
+								"pr" : 315,
+								"pt" : 82,
+								"type" : "SE List Entry4"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 1256105001,
+								"pb" : 101,
+								"pl" : 276,
+								"pr" : 303,
+								"pt" : 84,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 486,
+						"pl" : 594,
+						"pr" : 634,
+						"pt" : 465,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1736911154,
+						"pb" : 494,
+						"pl" : 545,
+						"pr" : 708,
+						"pt" : 458,
+						"type" : "SE Plain Image"
+					}
+				],
+				"pb" : 313,
+				"pl" : 363,
+				"pr" : 530,
+				"pt" : 277,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 916711778,
+				"pb" : 158,
+				"pl" : 17,
+				"pr" : 18,
+				"pt" : 16,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1472765929,
+				"pb" : 158,
+				"pl" : 353,
+				"pr" : 354,
+				"pt" : 16,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 924501826,
+				"pb" : 16,
+				"pl" : 17,
+				"pr" : 354,
+				"pt" : 15,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1233786537,
+				"pb" : 158,
+				"pl" : 18,
+				"pr" : 354,
+				"pt" : 157,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 86435472,
+				"pb" : 293,
+				"pl" : 707,
+				"pr" : 842,
+				"pt" : 292,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1348925231,
+				"pb" : 14,
+				"pl" : 706,
+				"pr" : 842,
+				"pt" : 13,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 192889079,
+				"pb" : 293,
+				"pl" : 842,
+				"pr" : 843,
+				"pt" : 13,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\blackbox.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 951749393,
+				"pb" : 293,
+				"pl" : 706,
+				"pr" : 707,
+				"pt" : 13,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 2,
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 1661135274,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 584878729,
+								"fPin" : 7,
+								"tMod" : 755286088
+							},
+							
+							{
+								"fMod" : 584878729,
+								"fPin" : 8,
+								"tMod" : 755286088,
+								"tPin" : 1
+							}
+						],
+						"handle" : 109973098,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 584878729,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 755286088,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 309,
+								"pt" : 119,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 152,
+						"pl" : 302,
+						"pr" : 341,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 410974768,
+								"fPin" : 7,
+								"tMod" : 2093216715
+							},
+							
+							{
+								"fMod" : 410974768,
+								"fPin" : 8,
+								"tMod" : 2093216715,
+								"tPin" : 1
+							}
+						],
+						"handle" : 312812838,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 410974768,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 2093216715,
+								"pb" : 164,
+								"pl" : 264,
+								"pr" : 309,
+								"pt" : 142,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 113,
+						"pl" : 330,
+						"pr" : 375,
+						"pt" : 91,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1384074651,
+								"fPin" : 7,
+								"tMod" : 197778146
+							},
+							
+							{
+								"fMod" : 1384074651,
+								"fPin" : 8,
+								"tMod" : 197778146,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1401305540,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1384074651,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 197778146,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 269,
+						"pr" : 309,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1075420267,
+								"fPin" : 7,
+								"tMod" : 847386556
+							},
+							
+							{
+								"fMod" : 1075420267,
+								"fPin" : 8,
+								"tMod" : 847386556,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1943987178,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1075420267,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 847386556,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 238,
+						"pr" : 278,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 2081820668,
+								"fPin" : 7,
+								"tMod" : 1965081198
+							},
+							
+							{
+								"fMod" : 2081820668,
+								"fPin" : 8,
+								"tMod" : 1965081198,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1092558339,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 2081820668,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1965081198,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 206,
+						"pr" : 246,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 836890569,
+								"fPin" : 7,
+								"tMod" : 1808012519
+							},
+							
+							{
+								"fMod" : 836890569,
+								"fPin" : 8,
+								"tMod" : 1808012519,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 836890569,
+								"fPin" : 9,
+								"tMod" : 1808012519,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 836890569,
+								"fPin" : 10,
+								"tMod" : 1808012519,
+								"tPin" : 7
+							}
+						],
+						"handle" : 1604003825,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 836890569,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1808012519,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 313,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 173,
+						"pr" : 216,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1608972433,
+								"fPin" : 7,
+								"tMod" : 1824622564
+							},
+							
+							{
+								"fMod" : 1608972433,
+								"fPin" : 8,
+								"tMod" : 1824622564,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 1608972433,
+								"fPin" : 9,
+								"tMod" : 1824622564,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1608972433,
+								"fPin" : 10,
+								"tMod" : 1824622564,
+								"tPin" : 7
+							}
+						],
+						"handle" : 1308851210,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1608972433,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1824622564,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 310,
+								"pt" : 119,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 152,
+						"pl" : 110,
+						"pr" : 150,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 619532874,
+								"fPin" : 7,
+								"tMod" : 1290478293
+							},
+							
+							{
+								"fMod" : 619532874,
+								"fPin" : 8,
+								"tMod" : 1290478293,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 619532874,
+								"fPin" : 9,
+								"tMod" : 1290478293,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 619532874,
+								"fPin" : 10,
+								"tMod" : 1290478293,
+								"tPin" : 7
+							}
+						],
+						"handle" : 1701705984,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 619532874,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 1290478293,
+								"pb" : 142,
+								"pl" : 270,
+								"pr" : 309,
+								"pt" : 120,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 151,
+						"pl" : 141,
+						"pr" : 180,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1540890592,
+								"fPin" : 7,
+								"tMod" : 831691910
+							},
+							
+							{
+								"fMod" : 1540890592,
+								"fPin" : 8,
+								"tMod" : 831691910,
+								"tPin" : 1
+							},
+							
+							{
+								"fMod" : 1540890592,
+								"fPin" : 9,
+								"tMod" : 831691910,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1540890592,
+								"fPin" : 10,
+								"tMod" : 831691910,
+								"tPin" : 7
+							}
+						],
+						"handle" : 1557750432,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1540890592,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									}
+								],
+								"handle" : 831691910,
+								"pb" : 143,
+								"pl" : 270,
+								"pr" : 309,
+								"pt" : 119,
+								"type" : "SE List Entry4"
+							}
+						],
+						"pb" : 153,
+						"pl" : 78,
+						"pr" : 117,
+						"pt" : 129,
+						"type" : "Container"
+					}
+				],
+				"pb" : 138,
+				"pl" : 75,
+				"pr" : 372,
+				"pt" : 76,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "0"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 643108030,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Documents\\darkerorange.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 795825779,
+						"pb" : 169,
+						"pl" : 332,
+						"pr" : 357,
+						"pt" : 151,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 531100037,
+								"fPin" : 7,
+								"tMod" : 1493920407
+							},
+							
+							{
+								"fMod" : 531100037,
+								"fPin" : 8,
+								"tMod" : 1493920407,
+								"tPin" : 1
+							}
+						],
+						"handle" : 253820781,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 531100037,
+								"type" : "SE PatchMemory List3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "selector_text"
+									},
+									
+									{
+										"Id" : 4,
+										"default" : "0"
+									}
+								],
+								"handle" : 1493920407,
+								"pb" : 155,
+								"pl" : 264,
+								"pr" : 316,
+								"pt" : 133,
+								"type" : "SE List Entry4"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"default" : "2"
+									}
+								],
+								"handle" : 441569693,
+								"pb" : 153,
+								"pl" : 266,
+								"pr" : 310,
+								"pt" : 133,
+								"type" : "SE Plain Image"
+							}
+						],
+						"pb" : 173,
+						"pl" : 26,
+						"pr" : 72,
+						"pt" : 151,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1074741750,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 2061862602,
+										"fPin" : 7,
+										"tMod" : 1339889931
+									},
+									
+									{
+										"fMod" : 2061862602,
+										"fPin" : 8,
+										"tMod" : 1339889931,
+										"tPin" : 1
+									}
+								],
+								"handle" : 409474816,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 2061862602,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1339889931,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 261,
+								"pl" : 135,
+								"pr" : 175,
+								"pt" : 239,
+								"type" : "Container"
+							}
+						],
+						"pb" : 188,
+						"pl" : 79,
+						"pr" : 119,
+						"pt" : 166,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 2015895424,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 228099725,
+										"fPin" : 7,
+										"tMod" : 2008240712
+									},
+									
+									{
+										"fMod" : 228099725,
+										"fPin" : 8,
+										"tMod" : 2008240712,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1003380722,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 228099725,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 2008240712,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 353,
+								"pl" : 187,
+								"pr" : 227,
+								"pt" : 331,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 303,
+						"pr" : 343,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1311230036,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1191109758,
+										"fPin" : 7,
+										"tMod" : 1534996569
+									},
+									
+									{
+										"fMod" : 1191109758,
+										"fPin" : 8,
+										"tMod" : 1534996569,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1804061908,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1191109758,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1534996569,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 297,
+								"pl" : 171,
+								"pr" : 211,
+								"pt" : 275,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 271,
+						"pr" : 311,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1236871324,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 2134328207,
+										"fPin" : 7,
+										"tMod" : 343403143
+									},
+									
+									{
+										"fMod" : 2134328207,
+										"fPin" : 8,
+										"tMod" : 343403143,
+										"tPin" : 1
+									}
+								],
+								"handle" : 1003956647,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 2134328207,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 343403143,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 321,
+								"pl" : 195,
+								"pr" : 235,
+								"pt" : 299,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 238,
+						"pr" : 278,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1095886695,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1284839758,
+										"fPin" : 7,
+										"tMod" : 373281528
+									},
+									
+									{
+										"fMod" : 1284839758,
+										"fPin" : 8,
+										"tMod" : 373281528,
+										"tPin" : 1
+									}
+								],
+								"handle" : 540602493,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1284839758,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 373281528,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 337,
+								"pl" : 227,
+								"pr" : 267,
+								"pt" : 315,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 206,
+						"pr" : 246,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 377314995,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1620033284,
+										"fPin" : 7,
+										"tMod" : 1163040698
+									},
+									
+									{
+										"fMod" : 1620033284,
+										"fPin" : 8,
+										"tMod" : 1163040698,
+										"tPin" : 1
+									}
+								],
+								"handle" : 2063222330,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1620033284,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 1163040698,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 305,
+								"pl" : 203,
+								"pr" : 243,
+								"pt" : 283,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 174,
+						"pr" : 214,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 2077478008,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1101172851,
+										"fPin" : 7,
+										"tMod" : 558970929
+									},
+									
+									{
+										"fMod" : 1101172851,
+										"fPin" : 8,
+										"tMod" : 558970929,
+										"tPin" : 1
+									}
+								],
+								"handle" : 752973414,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1101172851,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 558970929,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 337,
+								"pl" : 203,
+								"pr" : 243,
+								"pt" : 315,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 143,
+						"pr" : 183,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1555734329,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 2,
+										"default" : "1"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 693652198,
+										"fPin" : 7,
+										"tMod" : 2060968720
+									},
+									
+									{
+										"fMod" : 693652198,
+										"fPin" : 8,
+										"tMod" : 2060968720,
+										"tPin" : 1
+									}
+								],
+								"handle" : 691990246,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 693652198,
+										"type" : "SE PatchMemory List3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 2,
+												"default" : "selector_text"
+											}
+										],
+										"handle" : 2060968720,
+										"pb" : 142,
+										"pl" : 270,
+										"pr" : 310,
+										"pt" : 120,
+										"type" : "SE List Entry4"
+									}
+								],
+								"pb" : 116,
+								"pl" : 171,
+								"pr" : 211,
+								"pt" : 94,
+								"type" : "Container"
+							}
+						],
+						"pb" : 189,
+						"pl" : 111,
+						"pr" : 151,
+						"pt" : 167,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1223238131,
+								"fPin" : 8,
+								"tMod" : 660851139
+							}
+						],
+						"handle" : 1272837465,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1223238131,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 660851139,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 305,
+						"pr" : 323,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 313667265,
+								"fPin" : 8,
+								"tMod" : 2014782231
+							}
+						],
+						"handle" : 1486620529,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 313667265,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 2014782231,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 272,
+						"pr" : 290,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1261490034,
+								"fPin" : 8,
+								"tMod" : 354151174
+							}
+						],
+						"handle" : 161280178,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1261490034,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 354151174,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 241,
+						"pr" : 259,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1235081152,
+								"fPin" : 8,
+								"tMod" : 1854733242
+							}
+						],
+						"handle" : 1552065470,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1235081152,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1854733242,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 209,
+						"pr" : 227,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1220562365,
+								"fPin" : 8,
+								"tMod" : 356597170
+							}
+						],
+						"handle" : 462313826,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1220562365,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 356597170,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 177,
+						"pr" : 195,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1819927562,
+								"fPin" : 8,
+								"tMod" : 1078962386
+							}
+						],
+						"handle" : 57710837,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1819927562,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1078962386,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 145,
+						"pr" : 163,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 140539010,
+								"fPin" : 8,
+								"tMod" : 1945021350
+							}
+						],
+						"handle" : 482031572,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 140539010,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1945021350,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 81,
+						"pr" : 99,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1662306737,
+								"fPin" : 8,
+								"tMod" : 1942205639
+							}
+						],
+						"handle" : 659483222,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1662306737,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\Led.png"
+									}
+								],
+								"handle" : 1942205639,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 127,
+						"pl" : 113,
+						"pr" : 131,
+						"pt" : 109,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 747794473,
+						"pb" : 166,
+						"pl" : 305,
+						"pr" : 323,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 430346435,
+						"pb" : 166,
+						"pl" : 273,
+						"pr" : 291,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1380799170,
+						"pb" : 166,
+						"pl" : 242,
+						"pr" : 260,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 498484744,
+						"pb" : 166,
+						"pl" : 210,
+						"pr" : 228,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 269600312,
+						"pb" : 166,
+						"pl" : 178,
+						"pr" : 196,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 251287389,
+						"pb" : 166,
+						"pl" : 146,
+						"pr" : 164,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 700509461,
+						"pb" : 166,
+						"pl" : 114,
+						"pr" : 132,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "5"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1646424850,
+						"pb" : 166,
+						"pl" : 82,
+						"pr" : 100,
+						"pt" : 120,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1802805171,
+						"pb" : 214,
+						"pl" : 301,
+						"pr" : 327,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1057519103,
+						"pb" : 214,
+						"pl" : 269,
+						"pr" : 295,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 751520970,
+						"pb" : 214,
+						"pl" : 77,
+						"pr" : 103,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1085620836,
+						"pb" : 214,
+						"pl" : 205,
+						"pr" : 231,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 691340383,
+						"pb" : 214,
+						"pl" : 141,
+						"pr" : 167,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 558717249,
+						"pb" : 214,
+						"pl" : 109,
+						"pr" : 135,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1026908358,
+						"pb" : 214,
+						"pl" : 173,
+						"pr" : 199,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1636358309,
+						"pb" : 214,
+						"pl" : 237,
+						"pr" : 263,
+						"pt" : 102,
+						"type" : "SE Plain Image"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 749406181,
+						"pb" : 230,
+						"pl" : 22,
+						"pr" : 358,
+						"pt" : 88,
+						"type" : "SE Plain Image"
+					}
+				],
+				"pb" : 157,
+				"pl" : 17,
+				"pr" : 353,
+				"pt" : 15,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 2,
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 1336646910,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1441235444,
+								"fPin" : 9,
+								"tMod" : 2143372759,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1441235444,
+								"fPin" : 10,
+								"tMod" : 2143372759,
+								"tPin" : 7
+							}
+						],
+						"handle" : 962646430,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "Pitch"
+									},
+									
+									{
+										"default" : "control_label"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 2143372759,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 1441235444,
+								"type" : "SE PatchMemory Float"
+							}
+						],
+						"pb" : 165,
+						"pl" : 545,
+						"pr" : 610,
+						"pt" : 142,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 7995293,
+								"fPin" : 9,
+								"tMod" : 1541215590,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 7995293,
+								"fPin" : 10,
+								"tMod" : 1541215590,
+								"tPin" : 7
+							}
+						],
+						"handle" : 1129282156,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "Decay"
+									},
+									
+									{
+										"default" : "control_label"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 1541215590,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 7995293,
+								"type" : "SE PatchMemory Float"
+							}
+						],
+						"pb" : 165,
+						"pl" : 577,
+						"pr" : 642,
+						"pt" : 142,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 9,
+								"tMod" : 23635,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 10,
+								"tMod" : 23635,
+								"tPin" : 7
+							}
+						],
+						"handle" : 17954,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "Vol"
+									},
+									
+									{
+										"default" : "control_label"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 23635,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 13327,
+								"type" : "SE PatchMemory Float"
+							}
+						],
+						"pb" : 165,
+						"pl" : 518,
+						"pr" : 583,
+						"pt" : 142,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1091914726,
+								"fPin" : 8,
+								"tMod" : 1514752442
+							}
+						],
+						"handle" : 7265377,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1091914726,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 1514752442,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 383,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 365,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1694745788,
+								"fPin" : 1,
+								"tMod" : 831883730
+							},
+							
+							{
+								"fMod" : 1312922555,
+								"fPin" : 2,
+								"tMod" : 1694745788
+							},
+							
+							{
+								"fMod" : 284973290,
+								"fPin" : 6,
+								"tMod" : 1312922555
+							},
+							
+							{
+								"fMod" : 284973290,
+								"fPin" : 7,
+								"tMod" : 1312922555,
+								"tPin" : 1
+							}
+						],
+						"handle" : 2124590425,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 831883730,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 1694745788,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 1312922555,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 284973290,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 378,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 358,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 2071291450,
+						"pb" : 375,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 343,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1897230652,
+						"pb" : 375,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 343,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1780676377,
+						"pb" : 375,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 343,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1032822740,
+								"fPin" : 8,
+								"tMod" : 1830127149
+							}
+						],
+						"handle" : 94703835,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1032822740,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 1830127149,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 414,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 396,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 886017091,
+								"fPin" : 1,
+								"tMod" : 1794169656
+							},
+							
+							{
+								"fMod" : 350628838,
+								"fPin" : 2,
+								"tMod" : 886017091
+							},
+							
+							{
+								"fMod" : 64603942,
+								"fPin" : 6,
+								"tMod" : 350628838
+							},
+							
+							{
+								"fMod" : 64603942,
+								"fPin" : 7,
+								"tMod" : 350628838,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1553617435,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 1794169656,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 886017091,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 350628838,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 64603942,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 410,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 390,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 61438784,
+						"pb" : 407,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 375,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 592528866,
+						"pb" : 407,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 375,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1773679940,
+						"pb" : 407,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 375,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1108080447,
+								"fPin" : 8,
+								"tMod" : 1560308561
+							}
+						],
+						"handle" : 1852256958,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1108080447,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 1560308561,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 350,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 332,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1676773554,
+								"fPin" : 8,
+								"tMod" : 430501306
+							}
+						],
+						"handle" : 1848477985,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1676773554,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 430501306,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 318,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 300,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1045406799,
+								"fPin" : 8,
+								"tMod" : 2029967822
+							}
+						],
+						"handle" : 513181839,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1045406799,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 2029967822,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 286,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 268,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 294941091,
+								"fPin" : 8,
+								"tMod" : 2045701052
+							}
+						],
+						"handle" : 562561502,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 294941091,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 2045701052,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 254,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 236,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1124602472,
+								"fPin" : 8,
+								"tMod" : 1942372452
+							}
+						],
+						"handle" : 546967361,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1124602472,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 1942372452,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 222,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 204,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1148660058,
+								"fPin" : 8,
+								"tMod" : 1231987442
+							}
+						],
+						"handle" : 1464534728,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 1148660058,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\Public\\Documents\\SynthEdit Projects\\skins\\mine\\squareled.png"
+									}
+								],
+								"handle" : 1231987442,
+								"pb" : 42,
+								"pl" : 46,
+								"pr" : 64,
+								"pt" : 24,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 190,
+						"pl" : 492,
+						"pr" : 510,
+						"pt" : 172,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 256046109,
+						"pb" : 181,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 149,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 892061716,
+								"fPin" : 1,
+								"tMod" : 1516487039
+							},
+							
+							{
+								"fMod" : 830655243,
+								"fPin" : 2,
+								"tMod" : 892061716
+							},
+							
+							{
+								"fMod" : 1700084331,
+								"fPin" : 6,
+								"tMod" : 830655243
+							},
+							
+							{
+								"fMod" : 1700084331,
+								"fPin" : 7,
+								"tMod" : 830655243,
+								"tPin" : 1
+							}
+						],
+						"handle" : 489916462,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 1516487039,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 892061716,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 830655243,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 1700084331,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 345,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 325,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1850669274,
+								"fPin" : 1,
+								"tMod" : 484293701
+							},
+							
+							{
+								"fMod" : 2138579884,
+								"fPin" : 2,
+								"tMod" : 1850669274
+							},
+							
+							{
+								"fMod" : 1221553253,
+								"fPin" : 6,
+								"tMod" : 2138579884
+							},
+							
+							{
+								"fMod" : 1221553253,
+								"fPin" : 7,
+								"tMod" : 2138579884,
+								"tPin" : 1
+							}
+						],
+						"handle" : 299648054,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 484293701,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 1850669274,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 2138579884,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 1221553253,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 313,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 293,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 329943438,
+								"fPin" : 1,
+								"tMod" : 960969546
+							},
+							
+							{
+								"fMod" : 1602734060,
+								"fPin" : 2,
+								"tMod" : 329943438
+							},
+							
+							{
+								"fMod" : 437973768,
+								"fPin" : 6,
+								"tMod" : 1602734060
+							},
+							
+							{
+								"fMod" : 437973768,
+								"fPin" : 7,
+								"tMod" : 1602734060,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1912655583,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 960969546,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 329943438,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 1602734060,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 437973768,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 281,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 261,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1274175957,
+								"fPin" : 1,
+								"tMod" : 1815970267
+							},
+							
+							{
+								"fMod" : 1035352771,
+								"fPin" : 2,
+								"tMod" : 1274175957
+							},
+							
+							{
+								"fMod" : 700842022,
+								"fPin" : 6,
+								"tMod" : 1035352771
+							},
+							
+							{
+								"fMod" : 700842022,
+								"fPin" : 7,
+								"tMod" : 1035352771,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1525844192,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 1815970267,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 1274175957,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 1035352771,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 700842022,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 249,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 229,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 421522521,
+								"fPin" : 1,
+								"tMod" : 2053539513
+							},
+							
+							{
+								"fMod" : 548146248,
+								"fPin" : 2,
+								"tMod" : 421522521
+							},
+							
+							{
+								"fMod" : 1133078021,
+								"fPin" : 6,
+								"tMod" : 548146248
+							},
+							
+							{
+								"fMod" : 1133078021,
+								"fPin" : 7,
+								"tMod" : 548146248,
+								"tPin" : 1
+							}
+						],
+						"handle" : 924510556,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 2053539513,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 421522521,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 548146248,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 1133078021,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 217,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 197,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 2,
+								"default" : "1"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1627326160,
+								"fPin" : 1,
+								"tMod" : 2004229394
+							},
+							
+							{
+								"fMod" : 900160841,
+								"fPin" : 2,
+								"tMod" : 1627326160
+							},
+							
+							{
+								"fMod" : 1407653462,
+								"fPin" : 6,
+								"tMod" : 900160841
+							},
+							
+							{
+								"fMod" : 1407653462,
+								"fPin" : 7,
+								"tMod" : 900160841,
+								"tPin" : 1
+							}
+						],
+						"handle" : 1510391194,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "C:\\Users\\windo\\Downloads\\filebrowser19x19.png"
+									},
+									
+									{
+										"Id" : 6,
+										"default" : "1"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "2"
+									}
+								],
+								"handle" : 2004229394,
+								"pb" : 184,
+								"pl" : 303,
+								"pr" : 323,
+								"pt" : 164,
+								"type" : "Image3"
+							},
+							
+							{
+								"handle" : 1627326160,
+								"type" : "SE BoolToFloat GUI"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 3,
+										"default" : "0"
+									}
+								],
+								"handle" : 900160841,
+								"type" : "SE FileDialog"
+							},
+							
+							{
+								"handle" : 1407653462,
+								"type" : "SE PatchMemory Text2"
+							}
+						],
+						"pb" : 185,
+						"pl" : 487,
+						"pr" : 507,
+						"pt" : 165,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1110852503,
+						"pb" : 311,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 279,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1883460827,
+						"pb" : 279,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 247,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1714772925,
+						"pb" : 214,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 182,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 544627842,
+						"pb" : 246,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 214,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 961469739,
+						"pb" : 343,
+						"pl" : 583,
+						"pr" : 599,
+						"pt" : 311,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 712778030,
+						"pb" : 181,
+						"pl" : 582,
+						"pr" : 598,
+						"pt" : 149,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1404083934,
+						"pb" : 311,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 279,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1951678794,
+						"pb" : 279,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 247,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1526954931,
+						"pb" : 279,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 247,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1707741967,
+						"pb" : 311,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 279,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1105215315,
+						"pb" : 343,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 311,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 2059711591,
+						"pb" : 343,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 311,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1462973398,
+						"pb" : 214,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 182,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 1654902785,
+						"pb" : 181,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 149,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 564711149,
+						"pb" : 214,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 182,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 625679237,
+						"pb" : 246,
+						"pl" : 519,
+						"pr" : 535,
+						"pt" : 214,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "7"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							}
+						],
+						"handle" : 2116555402,
+						"pb" : 246,
+						"pl" : 551,
+						"pr" : 567,
+						"pt" : 214,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "C:\\Users\\windo\\Downloads\\darkerturqgrey.png"
+							},
+							
+							{
+								"default" : "2"
+							}
+						],
+						"handle" : 1370939869,
+						"pb" : 421,
+						"pl" : 478,
+						"pr" : 614,
+						"pt" : 142,
+						"type" : "SE Plain Image"
+					}
+				],
+				"pb" : 293,
+				"pl" : 707,
+				"pr" : 871,
+				"pt" : 14,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Downloads\\backbutton.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 1005763223,
+				"pb" : 333,
+				"pl" : 685,
+				"pr" : 736,
+				"pt" : 307,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"default" : "C:\\Users\\windo\\Documents\\color3.png"
+					},
+					
+					{
+						"default" : "2"
+					}
+				],
+				"handle" : 594750635,
+				"pb" : 333,
+				"pl" : 737,
+				"pr" : 864,
+				"pt" : 307,
+				"type" : "SE Plain Image"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 0,
+						"default" : "background"
+					},
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					}
+				],
+				"handle" : 1503942198,
+				"ignoremouse" : "true",
+				"pb" : 355,
+				"pl" : 0,
+				"pr" : 869,
+				"pt" : 0,
+				"selected" : "true",
+				"type" : "SE Plain Image"
+			}
+		],
+		"skin" : "mine",
+		"vst_about_text" : "",
+		"vst_nag_user" : false,
+		"width" : 869
+	}
+}

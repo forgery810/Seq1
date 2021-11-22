@@ -1,0 +1,9 @@
+; SynthEdit Skin Definition File
+;
+; Skin Set:	ProphetBlack
+; Skin Item:	Small Knob
+; Files:	knob_sm.png
+
+type animated
+frame_size 20,20
+mouse_response rotary
