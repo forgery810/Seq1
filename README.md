@@ -2,9 +2,19 @@
 Drum Sequencer VST
 
 # Installation
-Currently for Windows only. This will hopefully change.
+
+Windows -
 Copy the Seq1 folder to a directory that your DAW searches for vsts. Install through the DAW as you normally would. 
 This has only been tested on FL Studio. Feedback is appreciated.
+
+Mac - 
+This is untested and therefore I can't promise it will work without any problems. 
+
+Copy the Seq1.component folder to your Mac, place it in folder /Library/Audio/Plug-Ins/Components/ on your Mac.
+The library folder is hidden by default. See:
+https://www.macworld.com/article/222209/how-to-view-the-library-folder-in-mavericks.html
+
+You may need to explicitly approve the plug-in by opening the System Preferences app and navigating to the General tab in Security & Privacy.
 
 If you find this vst useful, please consider donating. It does represent quite a bit of work.
 
