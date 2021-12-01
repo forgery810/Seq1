@@ -1,6 +1,8 @@
 # Seq1
 Drum Sequencer VST
 
+Demo - https://www.youtube.com/watch?v=o3-9nGvqit8
+
 # Installation
 
 Windows -
