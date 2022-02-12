@@ -18,7 +18,7 @@ https://www.macworld.com/article/222209/how-to-view-the-library-folder-in-maveri
 
 You may need to explicitly approve the plug-in by opening the System Preferences app and navigating to the General tab in Security & Privacy.
 
-If you find this vst useful, please consider donating. It does represent quite a bit of work.
+
 
 # Instructions
 Click the purple squares on the right to load samples into each slot. The sequencer playback is controlled by your DAW. The purple rectangle on the left controls the time division. Rates around 1/16 are recommended. After 1/32 or so the sequencer may not function properly.
